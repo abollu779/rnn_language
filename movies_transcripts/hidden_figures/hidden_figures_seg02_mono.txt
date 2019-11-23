@@ -1,0 +1,1223 @@
+1.8: if
+1.9: you
+2.0: do
+2.1: not
+2.2: get
+2.2: an
+2.3: assignment
+2.4: you
+2.6: do
+2.8: not
+3.0: have
+3.2: a
+3.2: job.
+
+5.3: Eleanor.
+6.1: Data
+6.7: Reduction,
+7.1: Building
+7.5: 202.
+
+8.2: Data
+8.7: Reduction?
+
+9.3: Well.
+9.6: You
+9.6: are
+9.8: welcome
+9.8: to
+10.2: join
+10.4: the
+10.5: charmers
+10.8: in
+11.1: Magneto-plasmadynamics.
+
+12.4: Oh!
+12.7: No,
+13.0: ma'am.
+
+14.1: Thank
+14.6: you,
+15.0: Data
+15.4: Reduction's
+15.8: just
+16.0: fine.
+
+19.3: Mary.
+20.0: Present.
+
+20.8: The
+21.0: Mercury
+21.2: 7
+21.4: prototype
+21.6: has
+21.8: arrived
+22.0: for
+22.2: testing.
+
+23.3: Mr.
+23.9: Zielinski's
+23.9: requesting
+24.9: you.
+
+26.1: For
+26.1: permanent
+26.9: assignment.
+
+27.7: Are
+28.0: you
+28.2: serious?
+28.4: Get
+28.6: moving.
+
+32.1: Oh!
+32.3: Thank
+32.5: you,
+32.7: Jesus!
+
+34.3: Thank
+34.6: you,
+35.0: Jesus!
+35.2: Oh!
+35.4: Thank
+35.6: you.
+35.8: Mary
+
+37.4: Keep
+37.6: it
+37.8: inside
+
+39.5: I
+39.5: am
+39.8: sorry,
+40.0: Dor
+
+43.2: All
+43.3: right,
+43.4: Mrs.
+43.6: Late
+
+44.4: You
+44.8: will
+45.0: also
+45.2: be..
+
+47.9: Mrs.
+48.4: Mitchell.
+
+49.5: We
+49.5: are
+49.9: on
+50.1: double
+50.3: time
+50.5: this
+50.7: mornin',
+51.0: girls.
+
+51.7: I
+51.9: need
+52.2: these
+52.3: calculations
+52.8: before
+53.2: lunch.
+
+54.8: The
+55.0: Space
+55.2: Task
+55.4: Group
+55.6: needs
+55.8: a
+55.9: computer,
+56.3: ASAP.
+
+58.0: Someone
+58.5: with
+58.6: a
+58.7: handle
+59.0: on
+59.1: Analytic
+59.6: Geometry.
+
+61.1: We
+61.3: can
+61.5: not
+61.7: fill
+61.9: the
+62.1: position
+62.3: outta
+62.5: the
+62.7: East
+62.9: Group.
+
+63.4: Permanent
+63.6: or
+63.8: temp?
+
+64.7: Everything's
+65.4: temporary,
+65.6: Dorothy.
+
+67.1: You
+67.4: have
+67.6: someone?
+67.8: Oh!
+68.0: Yes,
+68.2: ma'am.
+
+69.8: Katherine's
+70.1: the
+70.4: gal
+70.7: for
+70.9: that.
+
+71.9: She
+72.2: can
+72.4: handle
+72.6: any
+72.8: numbers
+73.1: you
+73.2: put
+73.3: in
+73.5: front
+73.7: of
+73.9: her.
+
+74.2: I
+74.2: will
+74.5: check
+74.7: her
+74.9: credentials.
+
+77.7: Did
+77.9: not
+78.1: think
+78.3: of
+78.5: comin'
+78.7: all
+78.9: the
+79.1: way
+79.3: down
+79.6: here.
+
+80.3: Here.
+80.5: Pinch
+80.7: press
+80.9: those
+81.1: out.
+
+88.1: Mrs.
+88.6: Mitchell!
+
+89.9: If
+90.2: I
+90.4: could.
+
+92.5: My
+92.7: application
+92.9: for
+93.1: supervisor,
+93.3: ma'am.
+
+95.0: Was
+95.4: just
+95.5: wondering
+95.6: if
+95.7: they
+95.9: are
+96.0: still
+96.2: considering
+96.7: me
+96.9: for
+96.9: that
+97.1: position.
+
+98.2: Yes.
+
+99.5: Well,
+100.0: the
+100.2: official
+100.6: word
+100.9: no.
+
+102.1: They
+102.1: are
+102.5: not
+102.8: assignin'
+103.1: a
+103.2: permanent
+103.7: supervisor
+104.2: for
+104.4: the
+104.5: Colored
+104.7: Group.
+
+105.6: May
+106.0: I
+106.1: ask
+106.3: why?
+
+107.0: I
+107.2: do
+107.2: not
+107.5: know
+107.7: "why."
+
+108.7: I
+109.0: did
+109.0: not
+109.4: ask
+109.6: "why."
+
+110.1: We
+110.5: need
+110.8: a
+110.9: Supervisor,
+111.1: ma'am.
+
+112.0: We
+112.4: have
+112.4: not
+112.6: had
+112.8: one
+112.9: since
+113.2: Ms.
+113.5: Jansen
+113.8: got
+114.0: sick
+114.1: It
+114.3: has
+114.6: been
+114.7: almost
+114.9: a
+115.2: year.
+
+115.3: Things
+115.8: are
+115.9: workin'
+116.1: just
+116.3: fine
+116.6: as
+116.8: is.
+
+117.4: I
+117.4: am
+117.9: doing
+118.4: the
+118.5: work
+118.7: of
+119.4: a
+119.6: Supervisor.
+
+120.4: Well.
+120.7: That
+121.0: is
+121.2: NASA,
+121.4: for
+121.6: ya.
+
+123.8: Fast
+124.0: with
+124.3: rocket
+124.5: ships.
+124.7: Slow
+124.9: with
+125.1: advancement.
+
+126.9: Get
+127.3: those
+127.6: trajectories
+128.0: calcs
+128.4: worked
+128.7: out.
+
+129.0: We
+129.2: need
+129.4: em
+129.6: for
+129.8: the
+130.0: Redstone
+130.2: test.
+
+163.8: Mach
+164.3: 1
+164.3: tunnel
+165.0: test,
+165.2: T-1
+165.4: minute.
+
+179.7: No
+179.9: shoe
+180.1: is
+180.3: worth
+180.5: your
+180.7: life
+
+181.5: One..
+181.7: One
+181.9: moment!
+
+217.7: Shut
+218.1: it
+218.2: down.
+
+224.6: If
+225.0: we
+225.2: alter
+225.5: the
+225.7: exterior
+226.5: from
+226.8: smooth
+
+227.5: to
+227.7: corrugated,
+227.9: the
+228.1: capsule
+228.3: might
+228.5: have
+228.7: more
+228.9: stability,
+
+232.1: But
+232.5: the
+232.6: friction,
+233.2: it
+233.3: is
+233.5: under
+233.9: during
+234.1: reentry..
+
+235.4: Most
+235.9: shield
+236.4: erosion
+237.8: occurs
+
+238.8: on
+239.0: the
+239.3: posterior
+239.7: side
+240.1: abutting
+240.5: the
+240.9: retro-boosters.
+
+242.5: Conclusion?
+
+246.7: The
+246.8: area
+247.0: closest
+247.3: to
+247.6: the
+247.9: boosters
+248.3: is
+248.5: closest
+248.7: to
+248.9: the
+249.1: heat.
+
+250.6: Coupled
+251.1: with
+251.2: rising
+251.5: temperatures
+251.9: on
+252.2: reentry,
+
+253.0: the
+253.1: contacts
+253.3: soften.
+
+255.7: We
+256.1: could
+256.3: consider
+256.8: another
+257.4: fastener
+258.1: other
+258.4: than
+258.6: bolts.
+
+261.4: Yes
+
+263.7: Yes.
+
+270.7: There
+270.9: is
+271.1: another
+271.3: opening
+271.5: in
+271.7: the
+271.9: Engineer
+272.1: Training
+272.3: Program.
+
+274.5: Flat
+275.0: head
+275.2: rivets
+275.6: would
+275.9: reduce
+276.3: wind
+276.5: drag.
+
+277.0: Mary!
+277.7: A
+278.2: person
+278.7: with
+279.0: an
+279.3: engineer's
+279.6: mind
+280.0: should
+280.3: be
+280.4: an
+280.5: engineer.
+
+280.8: You
+281.2: can
+281.2: not
+281.4: be
+281.5: a
+281.6: Computer
+282.1: the
+282.5: rest
+282.7: of
+282.8: your
+283.0: life.
+
+283.6: Mr.
+284.0: Zielinski.
+
+285.4: I
+285.4: am
+285.8: a
+285.9: Negro
+286.1: woman.
+
+287.1: I
+287.1: am
+287.4: not
+287.6: gonna
+287.8: to
+287.9: entertain
+288.1: the
+288.5: impossible
+
+289.2: And
+289.6: I
+289.6: am
+289.7: a
+289.9: polish
+290.3: Jew
+290.6: whose
+290.9: parents
+291.3: died
+291.5: in
+291.6: a
+291.8: Nazi
+292.1: prison
+292.5: camp.
+
+292.8: Now
+293.2: I
+293.2: am
+293.4: standing
+293.7: beneath
+294.3: a
+294.5: space
+294.7: ship,
+
+295.8: that
+296.0: is
+296.2: going
+296.4: to
+296.6: carry
+296.8: an
+297.0: astronaut
+297.2: to
+297.4: the
+297.6: stars.
+
+299.1: I
+299.4: think
+299.6: we
+299.8: can
+299.9: say,
+300.4: we
+301.0: are
+301.1: living
+301.3: the
+301.5: impossible.
+
+303.4: Let
+303.8: me
+303.9: ask
+304.1: you..
+
+304.8: If
+305.2: you
+305.4: were
+305.6: a
+305.8: white
+306.0: male,
+
+306.9: Would
+307.3: you
+307.5: wish
+307.7: to
+307.8: be
+308.0: an
+308.1: engineer?
+
+309.5: I
+309.7: would
+309.9: not
+310.2: have
+310.3: to.
+310.5: I
+310.8: would
+311.1: already
+311.4: be
+311.7: one.
+
+313.5: Skirts
+314.1: must
+314.3: be
+314.4: worn
+314.7: past
+315.0: the
+315.2: knee.
+
+315.2: Sweaters
+316.1: are
+316.2: preferred
+316.4: to
+316.6: blouses.
+
+317.7: No
+317.9: jewelry.
+
+318.8: A
+318.8: simple
+319.3: pearl
+319.5: necklace
+319.7: is
+320.0: the
+320.1: exception.
+
+321.3: Your
+321.7: supervisor
+322.4: is
+322.7: Mr.
+323.0: Al
+323.3: Harrison.
+
+324.2: Director
+325.0: of
+325.0: the
+325.2: Space
+325.5: Task
+325.7: Group.
+
+326.5: You
+326.7: will
+326.9: write
+327.1: research,
+327.5: proof
+328.0: calculations,
+328.2: so
+328.4: forth.
+
+329.8: Do
+330.2: not
+330.5: talk
+330.7: to
+330.9: Mr.
+331.1: Harrison
+331.4: lest
+331.8: he
+331.9: talks
+332.1: to
+332.3: you.
+
+333.5: Not
+333.9: many
+334.1: Computers
+334.6: last
+334.8: more
+335.0: than
+335.1: a
+335.2: few
+335.3: days,
+
+336.4: He
+336.6: has
+336.8: been
+337.0: through
+337.2: a
+337.4: dozen
+337.6: in
+337.8: as
+338.0: many
+338.2: months.
+
+339.1: Come
+339.3: on,
+339.5: keep
+339.7: up
+
+340.6: Things
+341.1: move
+341.3: fast
+341.7: around
+341.8: here
+
+343.5: Your
+343.7: clearance.
+
+346.0: They
+346.0: have
+346.1: never
+346.4: had
+346.6: a
+346.7: colored
+347.0: in
+347.1: here
+347.2: before,
+347.4: Katherine.
+
+349.1: Do
+349.3: not
+349.5: embarrass
+349.7: me.
+
+376.4: This
+376.7: was
+376.8: not
+376.9: emptied
+377.1: last
+377.4: night.
+
+378.0: I
+378.0: am
+378.1: sorry.
+378.3: I
+378.5: am
+378.7: not
+378.8: the..
+
+380.4: Custodian.
+
+397.3: Excuse
+397.8: me,
+398.2: ma'am.
+398.6: Mr.
+399.0: Harrison's
+399.5: Computer
+399.7: reporting.
+
+400.5: Take
+400.7: the
+401.0: desk
+401.1: in
+401.2: the
+401.4: back.
+401.5: I
+401.5: will
+401.7: get
+401.9: your
+402.1: work
+402.3: in
+402.5: a..
+
+402.9: Bit.
+
+406.7: Mr.
+407.2: Harrison
+407.2: will
+407.5: not
+407.8: warm
+408.0: up
+408.1: to
+408.3: you,
+408.4: do
+408.5: not
+408.6: expect
+408.9: it.
+
+410.1: Do
+410.2: your
+410.4: work,
+410.6: keep
+410.7: your
+410.9: head
+411.1: down.
+
+412.3: Thank
+412.8: you.
+
+413.8: Go
+414.1: on.
+414.2: Get
+414.4: settled.
+
+426.9: Paul,
+
+428.5: Why
+428.7: are
+428.9: we
+429.1: still
+429.2: losing
+429.6: shingles
+429.8: off
+430.0: the
+430.2: heat
+430.4: shield?
+
+431.6: Well,
+431.8: We
+432.0: are
+432.2: working
+432.4: with
+432.6: a
+432.8: prototype
+433.0: of
+433.2: the
+433.4: capsule,
+433.6: Al.
+
+434.2: It
+434.5: is
+434.5: little
+434.5: as
+434.6: one
+434.9: third
+435.1: the
+435.3: size..
+435.6: I
+436.0: get
+436.2: that.
+436.4: So..
+
+437.7: What
+437.8: do
+438.0: you
+438.1: do
+438.3: with
+438.4: our
+438.6: million
+438.7: dollar
+438.9: fan,
+439.1: Karl?
+
+440.8: Turn
+441.2: it
+441.3: down?
+441.8: No,
+442.4: I
+442.6: do
+442.8: not
+443.0: think...
+
+442.8: Hey!
+442.8: That
+442.8: was
+442.8: a
+444.0: joke.
+
+446.3: Paul,
+446.4: if
+446.6: the
+446.7: heat
+446.8: shield
+447.0: comes
+447.4: off
+
+448.2: what
+448.3: d'you
+448.5: think
+448.7: happens
+448.9: to
+449.1: our
+449.3: astronaut?
+
+449.6: I
+449.9: know.
+
+450.8: So
+451.0: we
+451.2: are
+451.4: gonna..
+
+452.6: We
+452.7: are
+452.8: gonna
+452.9: come
+453.0: up
+453.1: with
+453.3: a
+453.5: solve,
+453.7: right?
+
+454.0: Yes,
+454.5: sir.
+454.6: We
+454.6: are
+454.9: working
+455.2: on
+455.3: it.
+
+456.1: Ruth,
+456.2: what
+456.3: is
+456.5: the
+456.6: status
+457.0: on
+457.1: that
+457.2: Computer?
+
+457.8: She
+458.0: is
+458.2: right
+458.4: behind
+458.6: you,
+458.8: Mr.
+459.0: Harrison.
+
+465.0: Does
+465.1: she
+465.3: handle
+465.6: Analytic
+466.0: Geometry?
+
+467.4: Absolutely.
+468.4: And
+469.0: she
+469.2: speaks.
+
+470.5: Yes,
+471.0: sir.
+471.2: I
+471.3: do.
+
+472.8: Which
+473.2: one?
+473.4: Both.
+
+474.6: Geometry
+474.8: and
+475.0: speaking.
+
+478.1: Ruth.
+478.3: Give
+479.2: me
+479.4: that.
+
+483.6: Do
+483.7: you
+483.8: think
+484.0: you..
+
+485.7: You
+485.8: think
+486.0: you
+486.2: can
+486.3: find
+486.5: me
+486.6: the
+486.8: Frenet
+487.1: frame
+487.4: for
+487.5: this
+487.6: data,
+
+488.4: Using
+488.8: the
+489.0: GramSchmidt...
+
+489.4: With
+489.8: Orthogonalization
+490.3: algorithm.
+490.5: Yes,
+490.7: sir.
+
+491.8: I
+492.1: prefer
+492.4: it
+492.7: over
+492.7: Euclidean
+492.9: coordinates.
+
+497.5: OK.
+498.1: Good.
+
+500.3: Good.
+500.5: Then,
+500.7: I
+500.9: am
+501.1: going
+501.3: to
+501.5: need
+501.7: it
+501.9: by
+502.1: the
+502.3: end
+502.5: of
+502.7: the
+502.9: day.
+
+502.5: Yes.
+
+503.3: I
+503.3: am
+503.7: also
+503.9: going
+504.0: to
+504.2: ask
+504.4: you
+504.5: to
+504.6: check
+504.8: Mr.
+505.0: Stafford's
+505.2: math
+
+506.0: as
+506.0: well
+506.1: as
+506.3: others
+506.7: on
+506.8: this
+507.0: floor
+507.2: from
+507.4: time
+507.6: to
+507.8: time.
+
+508.1: I
+508.3: can..
+508.5: I
+508.7: can
+508.9: handle
+509.2: that,
+509.4: Al.
+
+509.5: I
+509.6: am
+509.7: sure
+509.8: you
+510.0: can,
+510.2: Paul.
+510.4: I
+510.6: am
+510.8: sure
+511.0: they
+511.2: all
+511.4: can.
+
+511.8: But
+512.0: if
+512.2: that
+512.4: were
+512.6: the
+512.8: case,
+
+513.5: Shingles
+513.7: would
+513.9: not
+514.0: be
+514.3: flying
+514.5: off
+514.8: the
+514.9: heat
+515.1: shield
+515.4: now,
+515.5: would
+515.8: they?
+
+518.1: Excuse
+518.5: me,
+518.6: could
+518.8: I
+518.9: have
+519.0: everyone's
+519.2: attention
+519.5: for
+520.1: a
+520.1: moment?
+
+523.0: Thank
+523.5: you.
+523.6: Just
+523.8: a..
+
+525.4: Just
+525.8: to
+525.9: be
+526.0: clear..
+
+526.8: In
+527.0: 14
+527.2: days
+527.4: the
+527.6: Mercury
+527.8: 7
+528.0: will
+528.2: be
+528.4: here
+528.6: for
+528.8: training.
+
+529.9: And
+530.3: I
+530.4: have
+530.5: no
+530.7: doubt
+530.9: in
+531.1: my
+531.1: mind
+531.3: that
+531.5: they
+531.5: are
+531.7: going
+531.9: to
+532.0: be
+
+532.9: asking
+533.5: us
+533.6: questions
+534.2: about
+534.4: our
+534.5: work.
+
+535.6: I
+535.9: think
+536.0: that
+536.1: is
+536.1: a
+536.2: pretty
+536.3: reason
+536.5: we
+536.6: are
+536.8: giving.
+536.9: We
+537.1: are
+537.3: putting
+537.4: a
+537.6: human..
+
+538.5: On
+538.8: top
+539.0: of
+539.1: a
+539.2: missile
+539.4: and
+539.6: shooting
+539.8: him
+540.0: into
+540.3: space
+
+540.6: And
+540.6: it
+540.7: is
+540.9: never
+541.1: been
+541.3: done
+541.4: before.
+
+543.6: And
+543.6: because
+543.9: it
+544.2: is
+544.4: never
+544.5: been
+544.7: done.
+544.8: Everything
+545.4: we
+545.6: do
+
+545.7: between
+546.0: now
+546.2: and
+546.3: then
+546.4: is
+546.5: going
+546.7: to
+546.7: matter.
+
+549.1: It
+549.3: is
+549.5: going
+549.7: to
+549.9: matter
+550.1: to
+550.3: their
+550.5: wives.
+
+552.0: To
+552.2: their
+552.4: children.
+
+553.9: I
+554.0: believe
+554.1: it
+554.2: is
+554.4: going
+554.5: to
+554.7: matter
+554.8: to
+555.0: the
+555.1: whole
+555.3: damn
+555.5: country.
+
+557.9: So
+558.1: this
+558.3: Space
+558.5: Task
+558.7: Group
+558.9: will
+559.1: be
+559.3: as
+559.5: advertised.
+
+561.2: America's
+562.0: greatest
+562.3: engineering
+562.6: and
+563.1: scientific
+563.5: minds
+
+565.2: are
+565.4: not
+565.5: gonna
+565.7: have
+565.9: a
+565.9: problem
+
+566.9: with
+567.1: having
+567.3: their
+567.5: work
+567.7: checked,
+567.9: are
+568.1: they,
+568.3: Paul?
+
+568.9: No,
+569.4: sir.
+
+570.4: Good.
+570.8: So
+571.0: let's
+571.2: have
+571.3: an
+571.5: amen,
+571.7: damnit
+
+572.5: Amen.
+
+573.9: Amen.
+
+577.0: All
+577.3: right!
+
+606.6: My
+606.8: numbers
+607.0: are
+607.2: spot
+607.4: on.
+

@@ -1,0 +1,641 @@
+14.2: We
+14.6: have
+14.7: a
+14.8: warning
+15.1: light!
+
+16.2: Capcom
+16.9: 7,
+17.0: I
+17.1: have
+17.3: a
+17.4: warning
+17.6: light.
+
+18.5: Standby,
+19.1: 7.
+
+20.2: Sir,
+20.4: we
+20.6: have
+20.8: a
+21.0: warning
+21.2: light!
+
+25.7: What
+26.1: are
+26.2: we
+26.3: looking
+26.4: at,
+26.6: Paul?
+27.0: The
+28.8: heat
+29.1: shield
+29.3: may
+29.6: have
+29.7: come
+29.9: loose.
+
+29.8: 7,
+30.0: will
+31.1: you
+31.2: confirm
+31.7: the
+32.2: landing
+32.6: bag
+33.0: is
+33.0: in
+33.1: the
+33.3: OFF
+33.5: position?
+
+34.4: Affirmative,
+35.5: Capcom.
+
+36.8: Al,
+37.0: we
+37.1: need
+37.3: to
+37.3: get
+37.4: him
+37.5: down,
+37.7: now
+38.3: He
+38.5: could
+38.7: burn
+39.0: up
+39.0: on
+39.2: re-entry.
+
+48.9: Come
+49.4: on,
+49.6: babies!
+
+50.8: There
+51.0: is
+51.2: a
+51.4: man
+51.6: in
+51.8: space.
+52.0: We
+52.2: do
+52.4: not
+52.6: want
+52.8: to
+53.0: miss
+53.2: it,
+53.4: so
+53.6: we
+53.8: gonna
+54.0: home.
+
+53.7: Something's
+53.9: wrong
+54.1: with
+54.3: Glenn.
+
+54.9: Oh,
+55.1: my
+55.3: Goodness!
+55.5: What
+55.7: is
+55.9: going
+56.1: on?
+
+56.5: Let's
+56.7: go.
+56.9: Ya
+57.1: will
+57.3: follow
+57.5: me.
+
+60.3: We
+60.4: have
+60.6: just
+60.9: learned,
+61.5: the
+61.6: Friendship
+62.1: 7
+62.4: is
+63.2: in
+63.3: danger
+63.6: of
+63.9: losing
+64.1: its
+64.8: heat
+65.3: shield.
+
+65.7: Have
+66.3: you
+66.5: heard
+66.7: any
+66.9: banging
+67.3: noises?
+67.5: Or
+67.7: anything
+67.9: of
+68.1: this
+68.3: type
+68.5: at
+68.7: higher
+68.9: rates?
+
+69.7: That
+69.7: is
+70.0: a
+70.3: negative,
+70.5: Capcom.
+
+73.1: Tell
+73.3: him
+73.5: not
+73.7: to
+73.9: jettison
+74.1: the
+74.3: retro-package.
+
+75.1: Tell
+75.3: him
+75.5: not
+75.7: to
+75.9: jettison
+76.1: the
+76.3: retro-package.
+
+77.6: NASA
+78.0: is
+78.4: confirming
+78.9: there
+79.0: is
+79.2: some
+79.4: sort
+79.6: of
+79.7: malfunction
+79.9: with
+80.5: the
+80.7: capsule's
+80.9: heat
+81.1: shield,
+
+81.4: and
+81.6: it
+81.8: may
+82.0: not
+82.2: stay
+82.4: in
+82.6: place.
+
+83.3: If
+83.5: the
+83.7: heat
+83.9: shield
+84.1: is
+84.3: loose...
+84.5: The
+84.7: retro
+84.9: package
+85.1: straps
+85.3: might
+85.5: hold
+85.7: it
+85.9: in
+86.1: place.
+
+88.9: Will
+89.7: that
+89.9: work?
+90.2: It
+90.4: will
+90.6: work.
+
+92.2: It
+92.5: will
+92.8: hold
+93.0: it
+93.2: until
+93.5: he
+93.7: reaches
+94.0: the
+94.1: Go
+94.3: /No
+94.4: Go
+94.6: point.
+94.9: It
+95.2: will
+95.6: work!
+
+97.4: He
+97.8: has
+97.9: to
+98.0: override
+98.6: the
+98.8: 05g.
+
+100.1: Do
+100.3: it.
+
+101.9: Friendship
+102.7: 7...
+
+103.3: We
+103.3: are
+103.7: recommending
+104.0: that
+104.5: the
+104.8: retro-package
+105.4: NOT,
+106.1: I
+106.5: repeat,
+106.8: NOT
+107.2: be
+107.4: jettisoned.
+
+108.6: This
+109.0: means
+109.4: that
+109.4: you
+109.6: will
+109.7: have
+110.1: to
+110.2: override
+110.7: the
+111.2: 05g
+111.8: switch.
+
+112.4: Roger!
+113.1: Is
+114.1: there
+114.4: a
+114.5: reason
+114.8: for
+114.9: this?
+115.1: Over.
+
+115.9: Standby,
+116.6: 7.
+
+122.4: Not
+122.9: at
+123.0: this
+123.0: time,
+123.2: 7.
+
+125.0: Roger,
+125.7: that
+125.8: command.
+126.3: I
+126.6: will
+126.9: make
+127.1: a
+127.2: manual
+127.4: 05g
+127.6: entry,
+
+129.4: and
+129.9: bring
+130.0: the
+130.1: scope
+130.4: in.
+130.6: Over.
+
+135.0: He
+135.2: knows.
+
+144.2: Without
+144.5: a
+144.8: heat
+145.1: shield,
+145.2: there
+145.5: is
+145.7: no
+145.9: way
+146.1: a
+146.3: Colonel
+146.5: Glenn
+
+146.7: can
+146.9: get
+147.1: back
+147.3: through
+147.5: the
+147.7: Earth's
+147.9: atmosphere.
+
+149.0: The
+149.2: heat
+149.4: is
+149.6: simply
+149.8: too
+150.0: overpowering.
+150.2: A
+150.4: malfunction
+150.6: in
+150.8: the
+151.0: automatic
+151.2: control
+151.4: system
+
+153.7: is
+153.9: causing
+154.2: the
+154.3: spacecraft
+154.5: to
+154.7: yaw
+154.9: in
+155.1: a
+155.3: skid
+155.5: like
+155.7: fashion
+
+157.1: thus
+157.6: putting
+157.8: the
+158.0: Friendship
+158.5: 7's
+159.0: re-entry
+159.5: point
+159.6: in
+159.8: jeopardy
+
+161.2: even
+161.7: now,
+161.9: col.
+162.1: Glen
+162.3: is
+162.5: skidding
+162.7: towards
+162.9: the
+163.1: US
+
+164.8: and
+165.2: he
+165.4: must
+165.7: begin
+166.0: the
+166.2: retro
+166.4: sequence
+
+180.3: You
+180.3: are
+180.6: going
+180.9: to
+181.2: be
+181.3: using
+181.5: fly-by-wire
+182.6: for
+183.0: reentry.
+
+183.8: You
+184.0: will
+184.2: need
+184.4: to
+184.5: maintain
+184.7: a
+185.0: zero
+185.3: angle.
+185.4: Over.
+
+186.6: Roger.
+187.3: I
+187.3: am
+187.8: on
+187.9: fly-by-wire,
+188.6: back-it
+189.4: up
+189.4: with
+189.5: manual.
+190.0: Over.
+
+191.2: Keep
+191.7: talking
+191.9: to
+192.1: him.
+
+192.5: Roger.
+192.7: The
+193.0: weather
+193.3: in
+193.6: the
+193.9: recovery
+195.5: 3
+196.5: foot
+196.6: waves,
+197.2: 10
+197.4: miles
+197.7: visibility.
+
+199.2: Capcom,
+200.1: you
+200.1: are
+200.2: going
+200.4: out
+
+200.9: He
+200.9: is
+201.3: crossing
+201.6: the
+201.8: communication
+202.1: black-out
+202.5: zone.
+
+205.9: There
+206.0: is
+206.2: a
+206.4: real
+206.6: fireball
+207.1: outside,
+207.2: and
+207.3: it
+207.5: is
+207.6: getting
+207.7: a
+207.9: little
+208.0: hot
+208.2: here!
+
+252.5: Friendship
+253.3: 7.
+253.6: Do
+253.9: you
+254.0: copy?
+254.2: Over.
+
+259.2: Again.
+
+260.5: Friendship
+261.2: 7.
+261.5: Do
+261.8: you
+261.9: copy?
+262.1: Over.
+
+276.9: Friendship
+277.6: 7.
+277.9: Do
+278.2: you
+278.2: copy?
+278.8: Over.
+
+292.4: Loud
+292.9: and
+293.0: clear,
+293.1: Capcom.
+
+294.7: Roger
+295.2: that.
+295.8: How
+296.3: are
+296.4: you
+296.5: doing?
+
+298.6: My
+299.0: condition
+299.2: is
+299.5: good.
+299.6: But
+299.8: that
+299.9: was
+300.1: a
+300.3: real
+300.5: fireball,
+301.0: boy
+
+301.3: Roger
+302.1: that.
+302.3: Let's
+303.1: get
+303.2: you
+303.4: all
+303.5: the
+303.5: way
+303.7: home.
+
+304.5: Roger
+304.7: that.
+304.9: Here
+305.1: is
+305.3: hoping
+305.5: these
+305.7: landing
+305.9: coords
+306.1: still
+306.3: hold.
+
+307.7: Approaching
+307.9: 16.11984.
+
+312.4: Roger
+312.7: that!
+313.0: Approaching
+313.2: -165.2356.
+313.4: In
+313.6: 3,
+313.8: 2,
+314.0: 1.
+
+320.4: Engaging
+320.6: chutes.
+
+323.8: Beautiful
+324.2: chutes.
+324.7: How
+325.2: we
+325.6: are
+326.1: lookin,
+326.6: Capcom?
+
+327.0: Your
+327.4: Go/No
+327.9: Go
+328.5: is
+329.0: good.
+329.5: Landing
+330.1: coordinates
+330.6: are
+330.7: spot
+331.1: on,
+331.3: 7.
+
+332.4: Roger
+333.0: that,
+333.2: Capcom.
+
+335.0: I
+335.0: have
+335.5: always
+335.8: wanted
+336.1: to
+336.3: swim
+336.5: in
+336.6: the
+336.7: Bahamas.
+336.9: Over.
+
+341.7: John
+342.2: Glenn
+342.4: has
+343.0: splashed-down,
+343.6: and
+343.9: is
+344.1: being
+344.4: recovered.
+
+348.2: John
+348.7: Glenn
+348.9: has
+349.5: splashed-down
+350.1: safely
+350.2: and
+350.3: is
+350.4: being
+350.6: recovered
+351.9: by
+352.2: USS
+352.4: Noa.
+
+358.2: Katherine!
+
+364.2: Nice
+364.6: work.
+365.1: You
+365.3: too,
+365.5: Mr.
+365.7: Harrison.
+
+369.0: So..
+
+371.8: You
+372.0: think
+372.5: we
+372.6: can
+372.7: get
+372.8: to
+373.0: the
+373.2: moon?
+
+375.8: We
+376.0: are
+376.2: already
+376.4: there,
+376.6: sir.
+
+420.8: Girls.....
+421.3: This
+421.9: is
+422.5: Mrs.
+423.1: Vaughan.
+423.7: Your
+424.3: supervisor.
+
+425.2: She
+425.4: will
+425.6: show
+426.0: you
+426.2: how
+426.2: things
+426.5: work.
+426.7: Yeah!
+426.9: Come
+427.1: on
+427.3: in
+

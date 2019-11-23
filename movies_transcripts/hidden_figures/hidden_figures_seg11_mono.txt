@@ -1,0 +1,901 @@
+6.0: I
+6.1: do
+6.1: not
+6.4: think
+6.6: I
+6.8: felt
+7.0: a
+7.2: thing
+7.3: the
+7.6: first
+7.9: time
+8.1: I
+8.3: did
+8.6: this.
+
+9.3: I
+9.3: was
+9.3: so
+9.3: nervous.
+
+12.8: This
+13.4: is
+13.5: as
+13.6: beautiful
+13.8: as
+14.0: you
+14.2: were
+14.5: back
+14.8: then.
+15.0: You
+15.3: think
+15.9: so?
+
+17.5: Just
+18.0: a
+18.1: little
+18.2: older.
+
+19.5: And
+19.9: a
+20.4: little
+20.8: fuller...
+21.3: But
+21.8: you
+22.0: look
+22.2: good.
+
+27.3: Here
+27.7: we
+27.8: go.
+28.0: Again.
+
+39.4: That'a
+39.6: girl
+
+44.0: ..
+44.2: And
+44.4: Colonel
+44.6: John
+44.8: Glenn
+45.0: will
+45.2: be
+45.4: the
+45.6: first
+45.8: American
+46.0: to
+46.2: orbit
+46.4: the
+46.6: Earth.
+
+48.0: As
+48.3: you
+48.4: can
+48.5: see,
+48.6: there
+48.9: are
+49.0: thousands
+49.7: of
+49.8: people
+49.8: here
+50.4: to
+50.6: witness
+50.7: this
+50.9: historic
+51.1: event
+
+53.3: Paul,
+53.9: something's
+54.5: off
+54.7: here.
+54.9: These
+55.1: landing
+55.5: coordinates
+55.8: do
+55.8: not
+56.2: match
+56.4: yesterday's.
+
+58.8: The
+59.0: IBM
+59.2: just
+59.4: ran
+59.6: them.
+
+61.8: So
+61.9: then
+62.1: the
+62.2: IBM
+62.7: was
+62.7: wrong
+63.0: yesterday,
+63.1: right?
+
+66.4: Or
+66.4: the
+66.4: damn
+66.6: thing
+66.9: is
+67.2: wrong
+67.4: today.
+
+71.7: Paul,
+72.3: Am
+73.5: I
+73.6: right?
+74.0: It
+74.6: appears
+75.3: so.
+
+78.7: The
+78.9: IBM
+79.1: has
+79.3: been
+79.5: spot
+79.7: on
+79.9: up
+80.1: to
+80.3: this
+80.5: point,
+80.7: John.
+
+81.0: But
+81.2: we
+81.4: will
+81.6: run
+81.8: it
+82.0: again,
+82.2: to
+82.4: see
+82.6: what
+82.8: it
+83.0: comes
+83.2: up
+83.4: with.
+
+83.5: I
+83.7: will
+83.9: be
+84.0: honest
+84.3: with
+84.4: you,
+84.5: Al
+84.6: When
+84.9: I
+85.3: fly,
+85.7: I
+86.1: fly
+86.5: the
+86.7: machine,
+
+87.3: Right
+87.8: now,
+88.0: it
+88.1: seems
+88.2: like
+88.4: this
+88.6: machine
+88.9: is
+89.2: flying
+89.5: me.
+
+89.9: We
+90.0: are
+90.2: on
+90.4: the
+90.5: same
+90.5: page,
+90.9: John.
+91.3: Our
+91.5: guys
+91.6: are
+91.8: on
+92.0: it.
+
+92.5: Let's
+92.9: get
+93.0: the
+93.1: girl
+93.4: to
+93.5: check
+93.6: the
+93.8: numbers.
+
+95.1: The
+95.4: girl?
+95.6: Yes,
+95.8: sir.
+
+98.9: You
+99.1: mean
+99.4: Katherine?
+99.7: Yes,
+100.2: sir.
+100.2: The
+100.3: smart
+101.0: one.
+
+102.2: If
+102.4: she
+102.6: says
+102.9: they
+102.9: are
+103.0: good,
+103.3: I
+103.3: am
+103.6: ready
+103.8: to
+103.9: go.
+
+105.7: All
+106.1: right.
+106.3: We
+106.3: will
+106.5: get
+106.6: into
+106.9: it.
+107.1: Roger!
+
+110.2: Sam!
+112.2: Go
+112.6: find
+112.9: Katherine
+113.3: Goble.
+
+113.6: She
+114.2: needs
+114.4: to
+114.4: verify
+114.6: Glenn's
+114.8: Go/No
+115.0: Go
+115.7: or
+115.9: we
+116.2: are
+116.4: staying
+116.7: on
+116.9: the
+117.0: ground.
+
+117.5: Yes,
+117.7: sir.
+
+142.6: I
+142.8: am
+143.0: looking
+143.2: for
+143.4: Katherine
+143.6: Goble
+
+144.1: It
+144.1: is
+144.2: Katherine
+144.9: Johnson
+145.0: now.
+145.0: They
+145.1: need
+145.2: you
+145.3: to
+145.4: verify
+145.5: these
+146.6: coordinates.
+
+157.2: All
+157.6: right.
+157.9: Give
+158.0: her
+158.1: some
+158.3: space
+158.7: to
+158.8: work.
+
+162.7: A
+162.9: truly
+163.1: historic
+163.3: day
+163.5: for
+163.7: America..
+
+165.6: The
+166.0: country
+166.4: has
+166.6: waited
+167.0: for
+167.4: several
+167.6: months,
+168.0: through
+168.8: many
+169.3: failed
+169.8: unmanned
+170.4: Atlas
+171.0: rocket
+171.4: tests
+
+171.8: and
+172.0: 10
+172.2: scheduled
+172.4: manned
+172.6: attempts,
+
+174.7: which
+175.1: were
+175.3: canceled
+175.8: for
+176.0: various
+176.3: mechanical
+176.5: or
+176.7: system
+176.9: complications.
+
+179.6: All
+179.8: the
+180.1: final
+180.2: tests
+180.5: and
+180.7: checks
+181.6: are
+181.7: being
+181.9: conducted,
+182.3: John
+183.3: Glenn
+183.6: is
+183.8: ready
+184.3: to
+184.4: board
+184.6: the
+184.8: Friendship
+185.3: 7.
+
+186.1: But
+186.3: today
+186.5: we
+186.7: remain
+186.9: truly
+187.1: optimistic
+
+188.4: and
+188.6: it
+188.8: is
+189.0: a
+189.2: go
+189.4: day
+189.6: in
+189.8: all
+190.0: regards
+
+191.0: the
+191.2: capsule
+191.4: is
+191.6: ready,
+191.8: the
+192.0: rocket
+192.2: itself
+192.4: is
+192.6: a
+192.8: OK,
+193.0: and
+193.2: the
+193.4: weather
+193.6: here
+193.8: at..
+
+196.3: Anything
+196.5: from
+196.7: Langley?
+196.9: Not
+197.1: yet.
+
+198.8: We
+199.0: are
+199.1: being
+199.3: told
+199.6: the
+200.0: mission
+200.6: control
+201.0: at
+201.1: Nasa
+201.5: is
+201.8: conducting
+202.4: a
+202.5: final
+203.2: check
+
+203.5: of
+203.7: the
+203.9: launch
+204.1: and
+204.3: recovery
+204.5: coordinates
+204.7: including
+204.9: the
+205.1: go/no-go
+205.3: calculations
+
+208.2: so
+208.4: crucial
+208.6: to
+208.8: a
+209.0: safe
+209.2: and
+209.4: successful
+209.6: launch
+209.8: and
+210.0: recovery
+
+211.0: After
+211.6: years
+211.8: of
+212.0: waiting,
+212.3: and
+212.6: months
+212.8: of
+213.0: delays,
+
+213.8: col.
+214.0: Glen
+214.2: is
+214.4: finally
+214.6: ready
+214.8: for
+215.0: that
+215.2: space
+215.4: flight
+215.6: we
+215.8: have
+216.0: been
+216.2: waiting
+216.4: for
+216.6: with
+216.8: so
+217.0: much
+217.2: anticipation
+
+230.8: We
+231.0: are
+231.2: still
+231.4: a
+231.6: go.
+231.8: Yes,
+232.0: sir.
+
+237.7: That
+237.9: is
+238.1: it.
+
+242.7: What
+243.1: the
+243.2: devil
+243.3: are
+243.5: you
+243.7: doing?
+243.8: Are
+243.9: you
+244.0: taking
+244.2: a
+244.3: break?
+
+292.4: You
+292.5: have
+292.7: the
+292.9: time?
+
+325.6: Sir.
+
+331.0: Pad
+331.5: 14.
+
+344.3: Katherine!
+
+350.5: Come
+350.7: on
+
+355.3: Sir,
+355.5: we
+355.7: have
+355.9: got
+356.1: Pad
+356.3: 14
+356.5: on
+356.7: the
+356.9: box.
+
+357.4: Alright,
+358.0: let
+358.1: me
+358.2: in
+358.4: there.
+
+361.9: This
+362.3: is
+362.5: Langley.
+362.9: We
+363.3: have
+363.4: the
+363.6: coordinates
+363.8: confirmed.
+
+364.8: Standby,
+365.0: Langley.
+
+368.7: We
+369.1: can
+369.4: confirm
+369.7: the
+369.9: Go/No
+370.1: Go
+370.6: point
+371.2: for
+371.4: re-entry
+371.9: is..
+
+372.6: 16.11984
+375.1: degrees
+377.6: latitude
+379.4: 165.2356
+381.2: degrees
+383.1: longitude.
+
+385.0: The
+385.2: launch
+385.8: window
+386.0: is
+386.4: a
+386.8: go.
+387.2: The
+387.7: landing
+388.1: coordinates
+388.3: match.
+
+389.3: That
+389.8: is
+389.9: very
+390.0: good
+390.2: news,
+390.4: Al.
+
+391.9: It
+392.1: is
+392.3: a
+392.5: little
+392.7: hard
+392.9: to
+393.1: trust
+393.3: something
+393.5: you
+393.7: can
+393.9: not
+394.1: look
+394.3: in
+394.5: the
+394.7: eyes.
+
+394.5: That
+394.7: is
+394.9: right,
+395.1: Colonel.
+395.3: Katherine
+395.5: did
+395.7: manage
+395.9: to
+396.1: calculate
+
+397.7: a
+397.7: few
+397.9: decimal
+398.3: points
+398.7: further
+398.9: than
+399.1: that
+399.2: hunk
+399.5: of
+399.6: metal.
+
+400.8: Well,
+401.2: I
+401.3: will
+401.4: take
+401.6: every
+401.8: digit
+402.0: ya
+402.2: got.
+402.3: Be
+402.5: sure
+402.7: to
+402.9: thank
+403.1: her
+403.3: for
+403.4: me.
+
+404.4: Gentlemen!
+405.0: Let's
+405.2: launch
+405.5: this
+405.8: rocket.
+406.2: Good
+406.6: luck,
+407.0: Friendship
+407.3: 7.
+
+408.0: God
+408.2: speed,
+408.5: Langley.
+
+412.7: Here
+413.2: at
+413.3: Cape
+413.6: Canaveral
+414.0: the
+414.3: countdown
+415.0: has
+415.2: resumed
+415.7: as
+416.2: Colonel
+416.6: John
+416.9: Glenn
+
+417.2: is
+417.4: now
+417.6: aboard
+417.8: Friendship
+418.0: 7,
+418.2: high
+418.4: above
+418.6: the
+418.8: Atlas
+419.0: rocket
+419.2: on
+419.4: Pad
+419.6: 14.
+
+422.6: A
+422.6: height
+423.1: of
+423.4: over
+423.7: 93
+423.9: feet
+424.1: ..
+
+426.1: These
+426.6: pictures
+426.8: are
+427.1: from
+427.2: Cape
+427.5: Canaveral,
+427.9: Florida
+428.3: Deck
+428.7: entry
+429.2: is
+429.4: now
+429.6: moving
+430.1: back.
+
+431.0: We
+431.1: are
+431.2: go
+431.5: for
+431.7: launch.
+
+432.6: The
+432.8: Mercury
+433.5: Spacecraft
+433.8: umbilical
+434.6: is
+434.7: out
+
+436.3: T-10
+437.0: seconds,
+437.5: and
+437.7: counting
+
+438.9: 8..
+439.8: 7..
+440.7: 6..
+441.3: 5..
+
+442.7: 4..
+443.1: 3..
+444.3: 2..
+
+446.3: 1..
+447.2: Zero.
+448.2: Ignition.
+
+461.2: It
+461.4: is
+461.6: getting
+461.8: bumpy
+462.0: along
+462.2: here.
+
+463.1: Roger
+463.3: that.
+463.5: You
+463.7: are
+463.9: in
+464.1: Max
+464.3: Q.
+
+465.1: Roger
+465.3: that
+465.5: Capcom
+
+468.7: Twenty
+469.2: seconds
+469.5: to
+469.6: SECO.
+
+470.9: The
+470.9: trajectory
+471.0: is
+471.1: still
+471.1: be
+471.2: "OK".
+471.3: Go
+472.7: for
+472.9: SECO.
+
+481.7: Zero
+482.3: G.
+482.5: And
+482.7: I
+482.8: feel
+483.1: fine.
+
+484.5: John
+485.0: Glenn
+485.3: reports
+485.6: everything
+485.9: looks
+486.3: good
+
+487.9: Oh,
+488.1: that
+488.3: view
+488.5: is
+488.7: tremendous.
+
+491.9: Roger
+492.5: that,
+492.7: Friendship
+493.4: 7.
+
+499.4: You
+499.6: are
+499.8: go
+500.0: for
+500.2: orbit.
+500.5: Thank
+500.9: you,
+501.4: Capcom!
+
+507.7: All
+507.9: right.
+508.2: 10.5
+508.5: hours
+509.0: to
+509.1: go.
+509.1: If
+509.2: we
+510.0: make
+510.3: 7
+510.6: round
+510.9: trips.
+
+512.8: I
+513.0: could
+513.3: use
+513.5: a
+513.5: coffee.
+
+515.8: Well,
+516.3: as
+516.8: we
+517.0: approach
+517.2: the
+517.5: end
+517.8: of
+517.9: day
+518.0: here
+518.4: on
+518.4: the
+518.5: Eastern
+518.9: seaboard..
+
+519.5: Colonel
+520.0: Glenn
+520.0: is
+520.5: just
+521.0: beginning
+521.2: his
+521.4: third
+521.9: orbit.
+
+522.4: Three
+522.8: quarters
+523.1: of
+523.2: the
+523.3: way
+523.4: across
+523.8: the
+524.2: African
+524.5: continent.
+
+525.4: We
+525.6: see
+525.8: he
+526.0: is
+526.2: currently
+526.4: over
+526.6: Zanzibar,
+526.8: which
+527.0: is
+527.2: the
+527.4: next
+527.6: tracking
+527.8: station
+528.0: coming
+528.2: up.
+
+529.7: Thankfully
+530.4: the
+530.5: Friendship
+530.9: 7
+531.1: capsule
+531.3: is..
+
+540.2: New
+540.7: assignment
+541.2: came
+541.3: down
+541.5: the
+541.6: pike.
+
+545.8: Always
+546.4: changing
+546.7: round
+547.0: here.
+547.0: It
+547.1: is
+548.5: hard
+548.6: to
+548.7: keep
+548.9: up.
+
+552.6: Seems
+553.1: like
+553.3: they
+553.3: are
+553.4: gonna
+553.6: need
+553.7: a
+553.8: permanent
+554.1: team
+554.4: to
+554.5: feed
+554.6: that
+554.9: IBM
+
+556.3: How
+556.6: big
+557.0: of
+557.1: a
+557.3: team?
+557.5: 30
+557.7: to
+557.9: start.
+
+562.4: Thank
+562.9: you
+562.9: for
+563.0: the
+563.1: information,
+563.5: Mrs.
+563.9: Mitchell.
+
+566.3: You
+566.3: are
+566.7: quite
+566.9: welcome...
+567.1: Mrs.
+567.3: Vaughan.
+

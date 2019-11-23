@@ -1,0 +1,1113 @@
+87.8: Two
+88.2: men
+88.5: dead.
+
+90.3: Three
+90.8: million
+91.1: in
+91.1: cash
+91.5: gone,
+91.8: no
+92.1: Neski
+92.2: files
+
+93.8: and
+94.0: all
+94.3: very
+94.6: public.
+
+95.6: This
+96.0: is
+96.2: still
+96.3: a
+96.5: clandestine
+97.1: agency,
+97.3: no?
+
+98.3: I
+98.6: do
+98.6: not
+98.9: view
+99.0: this
+99.2: event
+99.7: as
+99.9: a
+99.9: failure.
+
+100.2: You
+100.6: call
+100.6: it
+100.8: a
+101.1: success?
+
+102.1: We
+102.5: have
+102.7: a
+102.8: lead.
+
+103.3: A
+103.3: fingerprint
+104.2: left
+104.3: by
+104.5: the
+104.6: assassin.
+
+106.6: It
+106.6: is
+106.8: one
+107.0: of
+107.2: us.
+
+109.4: Who
+109.6: is
+109.8: it?
+
+111.0: What
+111.3: can
+111.5: you
+111.5: tell
+111.7: me
+111.8: about
+112.0: Treadstone?
+
+114.0: Treadstone?
+
+115.3: That
+115.5: is
+115.7: where
+115.9: the
+116.1: trail
+116.3: dead-ends.
+
+117.0: If
+117.3: you
+117.6: want
+117.9: an
+118.2: answer,
+118.5: you
+118.9: are
+119.3: going
+119.3: to
+119.4: have
+119.5: to
+119.7: give
+119.9: me
+
+120.1: a
+120.3: level
+120.5: five
+120.7: SCI
+120.9: access.
+
+125.7: We
+126.1: have
+126.3: a
+126.4: lead,
+126.7: Marty.
+
+130.4: All
+130.6: right.
+
+132.7: You
+132.7: have
+132.8: got
+133.3: your
+133.5: clearance.
+
+134.1: But
+134.6: you
+135.1: are
+135.6: on
+136.2: a
+136.3: very
+136.4: short
+136.6: leash.
+
+137.6: And
+137.7: you
+137.8: will
+137.9: give
+138.0: a
+138.1: full
+138.3: report
+138.5: to
+138.8: the
+138.9: group.
+
+139.3: I
+139.6: wanna
+140.0: know
+140.1: where
+140.4: you
+140.4: are
+140.6: going
+141.0: with
+141.1: this.
+
+142.4: Sir.
+
+222.4: Ward?
+222.6: Yes?
+
+223.9: Pamela
+224.1: Landy.
+
+225.0: Hey,
+225.4: Pam.
+225.8: What
+227.0: can
+227.1: I
+227.1: do
+227.3: for
+227.5: you?
+
+227.4: I
+227.7: was
+227.8: hoping
+228.0: you
+228.1: had
+228.2: some
+228.3: time
+228.5: for
+228.7: me.
+
+228.8: Time
+229.0: for
+229.2: what?
+
+230.0: I
+230.0: am
+230.4: free
+230.6: right
+230.7: now,
+230.9: actually.
+
+231.4: That
+231.8: sounds
+232.0: ominous.
+
+233.5: Let
+233.9: me
+234.0: check
+234.1: my
+234.2: schedule.
+
+239.0: Excuse
+239.2: me,
+239.4: I
+239.6: need
+239.8: to...
+
+240.2: Excuse
+240.7: me.
+240.9: Can
+241.1: I
+241.2: help
+241.4: you?
+
+241.7: Yeah,
+241.9: I
+242.1: am
+242.3: here
+242.5: to
+242.7: see
+242.9: Mr.
+243.1: Abbott.
+
+243.7: 20
+243.9: minutes?
+244.1: See
+244.3: you.
+
+255.4: Operation
+256.2: Treadstone.
+
+256.9: Never
+257.1: heard
+257.3: of
+257.5: it.
+
+258.2: That
+258.4: is
+258.6: not
+258.8: gonna
+259.0: fly.
+
+259.2: With
+259.6: all
+259.7: due
+259.9: respect,
+260.2: Pam,
+260.6: I
+260.8: think
+261.0: you
+261.2: might
+
+261.3: have
+261.4: wandered
+261.6: a
+261.7: little
+261.9: past
+262.1: your
+262.3: pay
+262.6: grade.
+
+263.4: That
+263.6: is
+263.8: a
+264.0: warrant
+264.2: from
+264.4: Director
+264.6: Marshall
+
+265.0: granting
+265.7: me
+265.9: unrestricted
+266.2: access
+
+266.5: to
+266.6: all
+266.8: personnel
+266.9: and
+267.1: materials
+267.4: associated
+267.7: with
+268.0: Treadstone.
+
+273.3: So,
+273.5: what
+273.7: are
+273.9: we
+274.1: looking
+274.3: at?
+
+275.8: I
+276.0: wanna
+276.2: know
+276.4: about
+276.6: it.
+
+276.9: Know
+277.1: about
+277.3: it?
+
+277.9: It
+278.1: was
+278.3: a
+278.5: kill
+278.7: squad.
+278.9: Black-on-black.
+
+280.0: We
+280.3: closed
+280.6: it
+280.8: down
+280.9: two
+281.2: years
+281.3: ago.
+
+281.6: Nobody
+282.5: wants
+282.7: to
+282.8: know
+282.9: about
+283.1: Treadstone.
+
+283.3: Not
+283.8: around
+284.1: here.
+
+284.2: So
+284.7: I
+284.8: think
+284.9: you
+285.1: better
+285.2: take
+285.4: this
+285.6: back
+285.8: to
+285.9: Marty
+
+286.2: and
+286.4: let
+286.7: him
+286.8: know
+286.9: exactly
+287.7: what
+287.9: you
+287.9: are
+288.0: doing.
+
+288.6: He
+288.6: does.
+289.3: I
+289.3: have
+289.6: been
+289.8: down
+290.0: to
+290.1: the
+290.1: archives.
+
+290.8: I
+291.1: have
+291.3: the
+291.5: files,
+291.8: Ward.
+
+294.7: Let's
+295.3: talk
+295.5: about
+295.7: Conklin.
+
+296.2: What
+296.4: are
+296.6: you
+296.8: after,
+297.0: Pam?
+
+297.6: You
+297.8: wanna
+298.0: fry
+298.3: me?
+
+299.5: You
+300.0: want
+300.1: my
+300.3: desk.
+300.5: Is
+300.7: that
+300.9: it?
+
+300.8: I
+301.0: wanna
+301.2: know
+301.4: what
+301.6: happened.
+301.8: What
+302.0: happened?
+
+302.8: Jason
+303.4: Bourne
+303.7: happened.
+304.0: You
+304.1: got
+304.2: the
+304.3: files.
+
+306.2: Then
+306.6: let's
+306.8: cut
+306.9: the
+307.1: crap.
+
+308.3: Conklin
+308.7: had
+309.1: these
+309.2: guys
+309.3: wound
+309.5: so
+309.7: tight,
+309.9: they
+310.1: were
+310.3: Bound
+310.5: to
+310.7: snap.
+
+312.1: Bourne
+312.3: was
+312.6: his
+312.9: number
+313.2: one.
+
+313.9: The
+314.3: guy
+314.4: went
+314.6: for
+314.8: a
+314.8: job,
+315.1: screwed
+315.4: the
+315.7: op,
+316.0: never
+316.3: came
+316.5: Back.
+
+317.1: Conklin
+317.3: could
+317.5: not
+317.7: fix
+317.9: it,
+318.1: could
+318.3: not
+318.5: find
+318.7: Bourne,
+318.9: could
+319.1: not
+319.3: adjust.
+
+319.6: It
+319.8: all
+320.1: went
+320.5: sideways.
+
+321.2: So
+321.2: you
+321.2: had
+321.3: Conklin
+322.2: killed?
+
+323.9: I
+323.9: mean,
+323.9: if
+323.9: we
+323.9: are
+324.0: cutting
+325.0: the
+325.0: crap.
+
+325.6: I
+325.8: have
+326.0: given
+326.2: 30
+326.4: years
+326.6: and
+326.8: two
+326.9: marriages
+327.1: to
+327.3: this
+327.5: agency.
+
+328.0: I
+328.2: have
+328.4: shoveled
+328.6: shit
+328.8: on
+329.0: four
+329.2: continents.
+
+330.0: I
+330.0: am
+330.2: due
+330.4: to
+330.4: retire
+330.5: next
+330.7: year.
+
+331.2: But
+331.4: if
+331.6: you
+331.8: think
+332.0: I
+332.2: am
+332.4: gonna
+332.6: sit
+332.8: here
+
+332.6: and
+332.8: let
+333.0: you
+333.2: dangle
+333.4: me
+333.6: with
+333.8: this,
+
+334.3: you
+334.7: can
+334.9: go
+335.0: to
+335.1: hell.
+335.3: And
+336.5: Marshall,
+336.7: too.
+
+338.7: It
+339.1: had
+339.3: to
+339.4: be
+339.6: done.
+
+341.3: And
+341.5: Bourne?
+342.3: Where
+342.4: is
+342.5: he
+342.7: now?
+
+342.8: Dead
+342.8: in
+342.8: a
+342.8: ditch.
+342.8: Drunk
+343.3: in
+343.8: a
+344.4: Bar
+344.5: in
+344.6: Mogadishu.
+
+345.0: Who
+345.2: knows.
+345.4: I
+345.6: think
+345.8: I
+346.0: do.
+
+347.1: I
+347.4: had
+347.6: a
+347.6: deal
+347.8: going
+347.9: down
+348.1: in
+348.4: Berlin
+348.7: last
+348.9: week.
+
+349.3: And
+349.6: during
+349.8: the
+350.0: Buy,
+350.2: Both
+350.4: our
+350.6: case
+351.0: officer
+351.1: and
+351.3: the
+351.5: seller
+351.7: were
+351.9: killed.
+
+353.1: They
+353.5: were
+353.6: killed
+353.9: by
+354.0: Jason
+354.3: Bourne.
+
+359.0: They
+359.0: are
+359.4: ready
+359.5: for
+359.7: us
+359.9: upstairs.
+
+400.2: Seven
+400.7: years
+400.9: ago,
+401.2: $20
+401.6: million
+402.2: of
+402.3: CIA
+402.7: funds
+402.9: disappeared
+
+403.7: during
+404.0: a
+404.3: wire
+404.6: transfer
+405.1: through
+405.3: Moscow.
+
+406.2: In
+406.2: the
+406.3: investigation
+407.4: that
+407.5: followed
+
+408.2: we
+408.4: were
+408.6: contacted
+408.8: by
+409.0: a
+409.2: Russian
+409.4: politician,
+409.6: Vladimir
+409.8: Neski.
+
+411.7: Neski
+412.4: claimed
+412.6: we
+412.9: had
+413.0: a
+413.1: leak
+413.2: and
+414.0: that
+414.1: we
+414.2: would
+414.3: been
+414.4: ripped
+414.7: off
+414.8: by
+414.9: one
+415.1: of
+415.3: our
+415.5: own.
+
+415.7: And
+416.0: were
+416.4: we?
+
+416.9: We
+417.3: never
+417.4: found
+417.7: out.
+
+417.8: We
+418.1: were
+418.4: negotiating
+418.7: a
+419.1: meet
+419.3: with
+419.3: Mr.
+419.6: Neski
+419.7: when
+420.0: he
+420.1: was
+420.2: killed.
+
+420.4: By
+420.4: who?
+420.4: His
+421.5: wife.
+
+422.0: The
+422.4: case
+422.6: had
+422.8: gone
+423.0: cold
+423.4: until
+423.5: a
+423.7: month
+423.8: ago
+423.9: when
+424.2: we
+424.3: found
+424.4: a
+424.6: source.
+
+424.8: Another
+425.5: Russian
+425.8: in
+426.1: Berlin
+426.5: who
+426.6: claimed
+
+426.8: to
+427.0: have
+427.1: access
+427.3: to
+427.6: the
+427.7: Neski
+427.8: murder
+428.4: files.
+
+429.0: We
+429.4: thought
+429.5: we
+429.7: had
+429.9: another
+430.1: bite
+430.4: at
+430.5: the
+430.6: apple.
+
+434.3: Turns
+434.6: out
+434.9: the
+435.3: assassin
+435.6: was
+435.9: one
+436.3: of
+436.6: our
+436.9: own,
+437.3: Jason
+437.9: Bourne.
+
+439.3: Now
+439.4: I
+439.9: know
+440.1: Treadstone
+440.1: is
+440.4: not
+441.1: a
+441.2: very
+441.4: popular
+441.6: subject
+441.8: around
+442.0: here,
+
+442.4: but
+442.7: we
+443.0: found
+443.1: some
+443.4: interesting
+443.6: things
+444.1: when
+444.3: we
+444.6: dug
+444.8: a
+444.9: little
+444.9: deeper.
+
+445.5: This
+445.9: is
+446.0: Conklin's
+446.1: personal
+447.3: computer.
+
+448.3: His
+448.8: Treadstone
+449.2: files
+449.7: are
+449.8: bloated
+450.2: with
+450.6: code
+450.9: keys
+451.1: and
+451.4: case
+451.6: files
+
+451.9: that
+452.1: he
+452.3: neither
+452.5: needed
+452.7: nor
+452.9: had
+453.1: clearance
+453.3: for.
+
+454.3: Buried
+454.8: in
+454.9: the
+455.0: hard
+455.2: drive,
+455.6: we
+455.7: found
+456.0: a
+456.1: deleted
+456.3: file
+
+456.8: with
+456.9: an
+457.0: account
+457.3: number
+457.4: to
+457.7: a
+457.7: bank
+458.0: in
+458.1: Zurich.
+
+458.6: At
+458.9: the
+459.0: time
+459.2: of
+459.3: his
+459.5: death,
+
+459.6: he
+459.8: was
+460.2: sitting
+460.3: on
+460.5: a
+460.6: personal
+461.0: account
+461.5: in
+461.6: the
+461.7: amount
+461.9: of
+462.0: $760,000.
+
+463.4: You
+463.9: know
+464.0: what
+464.2: his
+464.3: budget
+464.4: was?
+
+465.4: We
+465.8: were
+465.8: throwing
+466.2: money
+466.5: at
+466.7: him.
+
+466.6: Throwing
+466.8: it
+467.0: at
+467.2: him
+467.5: and
+467.6: asking
+467.8: him
+468.0: to
+468.1: keep
+468.3: it
+468.5: dark.
+
+468.6: It
+468.8: was
+469.0: his
+469.1: own
+469.2: account.
+469.6: He
+469.8: was
+470.1: up
+470.3: to
+470.5: something.
+
+470.4: This
+470.6: is
+470.8: supposed
+471.0: to
+471.2: be
+471.4: definitive?
+
+471.8: What
+471.9: is
+472.1: definitive
+472.4: is
+472.7: that
+472.8: I
+473.0: just
+473.2: lost
+473.4: two
+473.6: people
+473.8: in
+474.0: Berlin.
+
+474.3: So
+474.4: what
+474.6: is
+474.8: your
+475.0: theory?
+475.2: Conklin
+475.2: is
+475.2: reaching
+475.9: out
+476.0: from
+476.1: the
+476.2: grave
+
+476.4: to
+476.5: protect
+476.8: his
+476.9: good
+477.1: name?
+477.4: The
+477.9: man
+478.4: is
+478.7: dead.
+
+479.1: No
+479.3: one
+479.3: is
+479.5: disputing
+479.7: that,
+479.9: Ward.
+
+480.0: For
+480.2: Christ's
+481.0: sake,
+481.2: Marty,
+481.4: you
+481.6: knew
+481.8: Conklin.
+
+483.0: Does
+483.4: this
+483.7: scan?
+484.0: I
+485.0: mean,
+485.1: at
+485.3: all?
+
+488.3: Cut
+488.6: to
+488.6: the
+488.7: chase,
+488.9: Pam.
+
+488.9: I
+489.0: think
+489.4: that
+489.9: Bourne
+490.0: and
+490.2: Conklin
+490.6: were
+490.8: in
+490.8: business
+491.0: together,
+
+491.5: that
+491.7: Bourne
+491.7: is
+491.9: still
+492.1: involved
+
+492.6: and
+492.8: that
+493.0: whatever
+493.2: information
+493.4: I
+493.6: was
+493.8: trying
+494.0: to
+494.2: buy
+494.4: in
+494.6: Berlin
+
+494.7: was
+494.9: big
+495.1: enough
+495.2: to
+495.4: bring
+495.7: Bourne
+496.0: out
+496.2: from
+496.4: hiding
+496.6: to
+496.9: kill
+497.1: again.
+
+497.8: How
+497.8: is
+498.3: that
+498.4: scan?
+
+500.3: Excuse
+501.0: me,
+501.1: sir,
+501.3: but
+501.5: you
+501.7: are
+501.9: not
+502.1: gonna
+502.3: believe
+502.5: this.
+
+502.7: Jason
+503.0: Bourne's
+503.4: passport
+503.9: just
+504.0: popped
+504.4: up
+504.5: on
+504.6: the
+504.7: grid
+504.9: in
+505.0: Naples.
+
+510.0: Okay.
+510.0: Contact
+511.5: Naples.
+511.7: They
+511.9: need
+512.1: to
+512.2: know
+512.2: who
+512.3: they
+512.4: are
+512.4: dealing
+512.7: with.
+
+514.0: Find
+514.5: out
+514.6: what
+514.7: kind
+514.7: of
+514.9: local
+515.2: assets
+515.4: we
+515.6: have
+515.7: in
+515.8: place
+516.1: there.
+
+521.6: No,
+521.6: it
+521.6: is
+521.6: nothing.
+521.6: Some
+521.6: guy's
+523.1: name
+523.3: came
+523.5: up
+523.6: on
+523.7: the
+523.9: computer.
+
+527.7: Yeah.
+527.9: Hey,
+528.1: listen,
+528.3: Tom,
+528.5: I
+528.7: am
+528.9: gonna
+529.1: call
+529.3: you
+529.5: back,
+529.7: okay?
+
+531.0: All
+531.2: right.
+
+547.7: Mr.
+547.9: Bourne,
+548.1: I
+548.3: am
+548.6: John
+548.8: Nevins.
+549.1: I
+549.3: am
+549.6: with
+550.0: the
+550.4: US
+550.6: Consulate.
+
+551.2: I
+551.3: just
+551.3: have
+551.6: a
+551.6: few
+551.7: questions
+551.8: for
+552.3: you.
+
+564.3: You
+564.3: are
+564.6: coming
+564.8: out
+564.9: of
+565.0: Tangiers.
+565.1: Is
+565.7: that
+565.8: correct?
+
+572.6: What
+572.6: is
+573.2: the
+573.3: nature
+573.8: of
+574.0: your
+574.1: visit
+574.2: to
+574.5: Naples?
+
+597.9: Look,
+598.5: I
+598.6: do
+598.6: not
+598.8: know
+598.9: what
+599.0: you
+599.1: did,
+
+599.8: and
+600.2: I
+600.3: do
+600.3: not
+600.4: know
+600.5: who
+600.6: you
+600.6: are
+600.7: working
+601.0: for.
+
