@@ -7,4 +7,6 @@ The only parameters to change are:
 - The path for the subtitles file for the movie studied
 - The path to save the transcript
 
-Then the final part of the code can run without any other change and a file will be created within nearly 20 min (for an audio file of 10 min )and will produce the precise transcript with timestamp for the studied audio file.
+Then the final part of the code can run without any other change and a file will be created within nearly 20 min (for an audio file of 10 min ) and will produce the precise transcript with timestamp for the studied audio file.
+
+A loop can easily be created to create the timestamps for all the desired audio files.
