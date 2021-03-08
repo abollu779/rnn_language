@@ -1,0 +1,1238 @@
+1.4: OTHER: Fourteen..
+1.6: OTHER: Fifteen..
+
+3.4: OTHER: Sixteen.
+3.6: OTHER: Prime.
+
+6.3: OTHER: Eighteen.
+6.5: OTHER: Prime.
+
+9.2: OTHER: Twenty.
+
+11.3: OTHER: Twenty-one.
+
+13.1: OTHER: Twenty-two.
+
+14.7: OTHER: West
+14.7: OTHER: Virginia
+14.7: OTHER: Collegiate
+15.7: OTHER: Institute
+15.7: OTHER: is
+15.7: OTHER: the
+15.7: OTHER: best
+16.7: OTHER: school
+16.7: OTHER: for
+16.9: OTHER: Negros
+17.1: OTHER: in
+17.3: OTHER: the
+17.5: OTHER: state.
+
+18.7: OTHER: It's
+19.1: OTHER: the
+19.5: OTHER: only
+19.5: OTHER: school,
+20.0: OTHER: past
+20.5: OTHER: the
+21.0: OTHER: eighth
+21.5: OTHER: grade,
+21.7: OTHER: anywhere
+21.9: OTHER: near
+22.1: OTHER: here.
+
+22.6: KATHERINE: Isosceles.
+22.8: KATHERINE: Scalene
+
+26.1: KATHERINE: Equilateral
+
+28.2: KATHERINE: Rhombus
+
+29.8: KATHERINE: Trapezoid
+
+31.5: OTHER: Katherine's
+31.7: OTHER: in
+31.9: OTHER: the
+32.1: OTHER: sixth
+32.3: OTHER: grade.
+
+33.3: OTHER: They
+33.5: OTHER: want
+33.7: OTHER: to
+33.9: OTHER: take
+34.1: OTHER: her
+34.3: OTHER: early.
+
+35.3: KATHERINE: Tetrahedron,
+
+37.7: KATHERINE: Dodecahedron
+
+39.6: OTHER: They're
+39.8: OTHER: offering
+40.0: OTHER: a
+40.2: OTHER: full
+40.4: OTHER: scholarship.
+
+41.3: OTHER: All
+41.5: OTHER: you
+41.7: OTHER: have
+41.9: OTHER: to
+42.1: OTHER: do
+42.3: OTHER: is
+42.5: OTHER: get
+42.7: OTHER: there.
+
+45.6: OTHER: Ms.
+45.8: OTHER: Coleman.
+
+47.7: OTHER: Why
+47.7: OTHER: don't
+47.7: OTHER: you
+47.7: OTHER: solve
+47.9: OTHER: the
+48.1: OTHER: equation
+48.3: OTHER: on
+48.5: OTHER: the
+48.7: OTHER: board?
+
+56.8: OTHER: We
+57.8: OTHER: took
+57.8: OTHER: up
+57.8: OTHER: a
+57.8: OTHER: collection
+58.0: OTHER: amongst
+58.2: OTHER: the
+58.4: OTHER: teachers
+58.6: OTHER: and
+58.8: OTHER: such,
+
+59.6: OTHER: It's
+59.8: OTHER: not
+60.0: OTHER: a
+60.2: OTHER: lot.
+
+61.2: OTHER: But
+62.2: OTHER: it's
+62.2: OTHER: enough
+62.2: OTHER: to
+62.2: OTHER: help
+62.2: OTHER: get
+63.2: OTHER: you
+63.4: OTHER: settle
+63.6: OTHER: down
+
+64.3: OTHER: That's
+64.5: OTHER: more
+64.7: OTHER: than
+64.9: OTHER: kind,
+65.1: OTHER: Ms.
+65.3: OTHER: Sumner.
+
+79.2: KATHERINE: If
+79.2: KATHERINE: the
+79.2: KATHERINE: product
+79.4: KATHERINE: of
+79.6: KATHERINE: two
+79.8: KATHERINE: terms
+80.0: KATHERINE: is
+80.2: KATHERINE: zero,
+
+81.2: KATHERINE: then
+82.0: KATHERINE: common
+82.0: KATHERINE: sense
+82.0: KATHERINE: says
+82.2: KATHERINE: at
+82.4: KATHERINE: least
+82.6: KATHERINE: one
+82.8: KATHERINE: of
+83.0: KATHERINE: the
+83.2: KATHERINE: two
+83.4: KATHERINE: terms
+
+83.3: KATHERINE: has
+83.5: KATHERINE: to
+83.7: KATHERINE: be
+83.9: KATHERINE: zero
+84.1: KATHERINE: to
+84.3: KATHERINE: start
+84.5: KATHERINE: with
+
+86.3: KATHERINE: So,
+86.3: KATHERINE: if
+86.3: KATHERINE: you
+86.3: KATHERINE: move
+87.3: KATHERINE: all
+87.3: KATHERINE: the
+87.3: KATHERINE: terms
+87.3: KATHERINE: over
+87.5: KATHERINE: to
+87.7: KATHERINE: one
+87.9: KATHERINE: side,
+
+88.4: KATHERINE: you'd
+89.2: KATHERINE: put
+89.2: KATHERINE: the
+89.2: KATHERINE: quadratics
+89.2: KATHERINE: into
+89.2: KATHERINE: a
+89.2: KATHERINE: form
+89.2: KATHERINE: that
+89.2: KATHERINE: can
+89.4: KATHERINE: be
+89.6: KATHERINE: factored,
+
+92.0: KATHERINE: Allowing
+92.4: KATHERINE: that
+92.8: KATHERINE: side
+93.2: KATHERINE: of
+93.6: KATHERINE: the
+94.0: KATHERINE: equation
+94.2: KATHERINE: to
+94.4: KATHERINE: equal
+94.6: KATHERINE: zero.
+
+96.6: KATHERINE: Once
+96.6: KATHERINE: you've
+96.6: KATHERINE: done
+96.6: KATHERINE: that,
+97.1: KATHERINE: it's
+97.6: KATHERINE: pretty
+97.8: KATHERINE: straight
+98.0: KATHERINE: forward
+98.2: KATHERINE: from
+98.4: KATHERINE: there
+
+101.2: OTHER: In
+102.2: OTHER: all
+102.2: OTHER: my
+102.2: OTHER: years
+102.2: OTHER: of
+103.2: OTHER: teaching,
+
+104.6: OTHER: I've
+104.6: OTHER: never
+104.6: OTHER: seen
+104.6: OTHER: a
+105.6: OTHER: mind
+105.6: OTHER: like
+105.6: OTHER: the
+105.6: OTHER: one
+105.8: OTHER: your
+106.0: OTHER: daughter
+106.2: OTHER: has.
+
+107.4: OTHER: Katherine!
+
+107.4: OTHER: Hurry
+107.6: OTHER: on
+107.8: OTHER: now,
+108.0: OTHER: love
+
+111.9: OTHER: You
+111.9: OTHER: have
+111.9: OTHER: to
+111.9: OTHER: go.
+
+113.3: OTHER: Let
+113.5: OTHER: Mommy
+113.7: OTHER: take
+113.9: OTHER: you
+114.1: OTHER: in.
+
+121.5: OTHER: You
+122.3: OTHER: have
+122.3: OTHER: to
+122.3: OTHER: see
+123.3: OTHER: what
+123.3: OTHER: she
+123.3: OTHER: becomes.
+
+150.1: DOROTHY: Ok,
+150.3: DOROTHY: try
+150.5: DOROTHY: to
+150.7: DOROTHY: turn
+150.9: DOROTHY: it
+151.1: DOROTHY: over,
+151.3: DOROTHY: now!
+
+152.8: DOROTHY: Katherine?
+
+155.6: DOROTHY: Mary!
+
+156.6: DOROTHY: Somebody!
+
+157.7: MARY: Katherine!
+157.9: MARY: Quit
+158.1: MARY: staring
+158.3: MARY: off
+158.5: MARY: into
+158.7: MARY: space
+158.9: MARY: and
+159.1: MARY: turn
+159.3: MARY: the
+159.5: MARY: damn
+159.7: MARY: car
+159.9: MARY: over
+
+162.1: KATHERINE: I
+162.1: KATHERINE: got
+162.1: KATHERINE: it.
+
+164.1: KATHERINE: I'm
+164.3: KATHERINE: not
+164.5: KATHERINE: deaf
+
+165.1: MARY: I
+166.1: MARY: wonder
+166.3: MARY: some
+166.5: MARY: times.
+
+169.0: KATHERINE: Here
+169.2: KATHERINE: it
+169.4: KATHERINE: goes.
+
+171.9: DOROTHY: Yeah,
+172.1: DOROTHY: it's
+172.3: DOROTHY: the
+172.5: DOROTHY: starter.
+
+174.2: DOROTHY: That
+176.2: DOROTHY: is
+178.2: DOROTHY: definitely
+180.2: DOROTHY: the
+182.2: DOROTHY: starter.
+
+177.0: MARY: The
+177.2: MARY: starter's
+177.4: MARY: startin'
+177.6: MARY: to
+177.8: MARY: make
+178.0: MARY: us
+178.2: MARY: late.
+
+179.2: MARY: We
+180.2: MARY: all
+180.2: MARY: go
+180.2: MARY: end
+180.2: MARY: up
+180.2: MARY: unemployed
+180.7: MARY: driving
+181.2: MARY: around
+181.2: MARY: in
+182.2: MARY: this
+182.4: MARY: pile
+182.6: MARY: of
+182.8: MARY: junk
+183.0: MARY: to
+183.2: MARY: work
+183.4: MARY: everyday.
+
+183.0: DOROTHY: You're
+184.0: DOROTHY: welcome
+184.0: DOROTHY: to
+184.0: DOROTHY: walk
+184.2: DOROTHY: the
+184.4: DOROTHY: 16
+184.6: DOROTHY: miles.
+
+185.2: KATHERINE: Or
+185.4: KATHERINE: sit
+185.6: KATHERINE: on
+185.8: KATHERINE: the
+186.0: KATHERINE: back
+186.2: KATHERINE: of
+186.4: KATHERINE: the
+186.6: KATHERINE: bus.
+
+188.1: MARY: I
+189.1: MARY: won't
+189.1: MARY: do
+189.3: MARY: neither.
+
+190.6: MARY: I'll
+190.8: MARY: hitchhike.
+
+196.2: MARY: Girls,
+
+204.4: DOROTHY: No
+204.4: DOROTHY: crime
+204.4: DOROTHY: in
+204.6: DOROTHY: a
+204.8: DOROTHY: broken
+205.0: DOROTHY: down
+205.2: DOROTHY: car.
+
+205.0: MARY: No
+205.2: MARY: crime
+205.4: MARY: being
+205.6: MARY: Negro
+205.8: MARY: neither.
+
+207.3: KATHERINE: Button
+207.5: KATHERINE: it
+207.7: KATHERINE: up,
+207.9: KATHERINE: Mary!
+208.1: KATHERINE: Nobody
+208.3: KATHERINE: wants
+208.5: KATHERINE: to
+208.7: KATHERINE: go
+208.9: KATHERINE: to
+209.1: KATHERINE: jail
+209.3: KATHERINE: behind
+209.5: KATHERINE: your
+209.7: KATHERINE: mouth.
+
+211.4: MARY: I'll
+211.8: MARY: do
+212.2: MARY: my
+212.4: MARY: best,
+212.6: MARY: sugar.
+
+225.9: OTHER: Not
+226.9: OTHER: a
+226.9: OTHER: great
+226.9: OTHER: place
+227.9: OTHER: for
+227.9: OTHER: the
+227.9: OTHER: three
+227.9: OTHER: of
+227.9: OTHER: ya'll
+227.9: OTHER: to
+227.9: OTHER: be
+228.1: OTHER: havin'
+228.3: OTHER: car
+228.5: OTHER: trouble.
+
+228.9: MARY: We
+230.0: MARY: didn't
+230.0: MARY: pick
+230.0: MARY: the
+230.0: MARY: place,
+231.0: MARY: Officer.
+231.2: MARY: It
+231.4: MARY: picked
+231.6: MARY: us.
+
+232.0: OTHER: You
+232.2: OTHER: bein'
+232.4: OTHER: disrespectful?
+
+233.7: MARY: No,
+233.9: MARY: sir.
+
+234.8: OTHER: You
+235.8: OTHER: have
+235.8: OTHER: identification
+236.0: OTHER: on
+236.2: OTHER: ya?
+
+235.0: MARY: Yes,
+235.2: MARY: sir.
+
+237.5: MARY: Yes,
+237.7: MARY: sir.
+
+240.2: KATHERINE: We're
+241.2: KATHERINE: just
+241.4: KATHERINE: on
+241.6: KATHERINE: our
+241.8: KATHERINE: way
+242.0: KATHERINE: to
+242.2: KATHERINE: work.
+
+242.3: KATHERINE: At
+242.5: KATHERINE: Langley.
+
+244.6: KATHERINE: NASA,
+244.8: KATHERINE: sir.
+
+245.7: DOROTHY: We
+246.7: DOROTHY: do
+246.7: DOROTHY: a
+246.7: DOROTHY: great
+246.7: DOROTHY: deal
+246.9: DOROTHY: of
+247.1: DOROTHY: the
+247.3: DOROTHY: calculating
+
+247.7: DOROTHY: Getting
+247.9: DOROTHY: our
+248.1: DOROTHY: rockets
+248.3: DOROTHY: into
+248.5: DOROTHY: space.
+
+249.8: OTHER: All
+250.0: OTHER: three?
+
+249.8: KATHERINE: Yes,
+250.0: KATHERINE: sir.
+
+251.2: MARY: Yes,
+251.4: MARY: officer.
+
+253.9: OTHER: NASA,
+254.1: OTHER: that's
+254.3: OTHER: somethin'
+
+258.0: OTHER: I
+258.2: OTHER: had
+258.4: OTHER: no
+258.6: OTHER: idea
+258.8: OTHER: they
+259.0: OTHER: hired...
+
+259.6: DOROTHY: There're
+259.8: DOROTHY: quite
+260.0: DOROTHY: a
+260.2: DOROTHY: few
+260.4: DOROTHY: women,
+
+261.4: DOROTHY: working
+262.4: DOROTHY: in
+262.4: DOROTHY: the
+262.6: DOROTHY: Space
+262.8: DOROTHY: Program.
+
+273.0: OTHER: Damn
+273.0: OTHER: Russians
+273.2: OTHER: are
+273.4: OTHER: watching
+273.6: OTHER: us
+273.8: OTHER: right
+274.0: OTHER: now.
+
+274.8: OTHER: Sputniks.
+
+278.4: OTHER: You
+278.4: OTHER: girls
+278.4: OTHER: ever
+278.6: OTHER: meet
+278.8: OTHER: those
+279.0: OTHER: Astronauts?
+
+279.4: OTHER: The
+279.6: OTHER: Mercury
+279.8: OTHER: 7?
+
+281.2: MARY: Absolutely
+
+283.1: KATHERINE: Yes,
+284.1: KATHERINE: sir.
+285.1: KATHERINE: We
+285.1: KATHERINE: work
+286.1: KATHERINE: with
+286.1: KATHERINE: those
+286.1: KATHERINE: gentlemen
+286.3: KATHERINE: all
+286.5: KATHERINE: the
+286.7: KATHERINE: time.
+
+286.9: OTHER: Those
+288.9: OTHER: boys
+290.9: OTHER: are
+292.9: OTHER: the
+294.9: OTHER: best
+296.9: OTHER: we
+298.9: OTHER: got.
+
+289.1: OTHER: I'm
+289.1: OTHER: sure
+289.1: OTHER: of
+289.1: OTHER: that
+
+288.3: KATHERINE: Yeah
+
+290.0: OTHER: We
+290.5: OTHER: gotta
+291.0: OTHER: get
+291.0: OTHER: a
+292.0: OTHER: man
+292.0: OTHER: up
+292.0: OTHER: there
+292.2: OTHER: before
+292.4: OTHER: the
+292.6: OTHER: Commies
+292.8: OTHER: do.
+
+292.5: KATHERINE: Yes!
+
+292.5: MARY: Absolutely.
+
+293.4: OTHER: Whole
+294.4: OTHER: damn
+294.6: OTHER: country's
+294.8: OTHER: counting
+295.0: OTHER: on
+295.2: OTHER: em.
+
+295.1: DOROTHY: That's
+295.3: DOROTHY: for
+295.5: DOROTHY: certain
+
+296.4: MARY: Hard
+296.6: MARY: to
+296.8: MARY: be
+297.0: MARY: of
+297.2: MARY: service
+298.2: MARY: broken
+298.2: MARY: down
+298.2: MARY: on
+298.2: MARY: the
+298.2: MARY: side
+298.4: MARY: of
+298.6: MARY: the
+298.8: MARY: road,
+299.0: MARY: though.
+
+300.0: OTHER: Right!
+300.2: OTHER: Right!
+
+301.8: OTHER: Well,
+302.2: OTHER: you
+302.6: OTHER: need
+302.6: OTHER: a
+302.8: OTHER: tow
+303.0: OTHER: or
+303.2: OTHER: somethin'?
+
+303.4: DOROTHY: No,
+303.4: DOROTHY: thank
+304.4: DOROTHY: you,
+304.4: DOROTHY: Officer.
+304.9: DOROTHY: I
+305.4: DOROTHY: think
+305.4: DOROTHY: I
+305.4: DOROTHY: got
+305.6: DOROTHY: it,
+305.8: DOROTHY: Just
+306.0: DOROTHY: give
+306.2: DOROTHY: me
+306.4: DOROTHY: that..
+
+306.6: OTHER: Just
+306.8: OTHER: need
+307.0: OTHER: to
+
+308.2: DOROTHY: bypass
+308.4: DOROTHY: the
+308.6: DOROTHY: starter
+
+312.2: KATHERINE: She
+312.4: KATHERINE: is
+312.6: KATHERINE: good
+312.8: KATHERINE: at
+313.0: KATHERINE: this
+313.2: KATHERINE: stuff
+
+316.2: DOROTHY: That
+316.4: DOROTHY: a
+316.6: DOROTHY: girl
+
+318.1: DOROTHY: We're
+318.3: DOROTHY: all
+318.5: DOROTHY: set.
+
+319.2: OTHER: Hell.
+319.4: OTHER: Least
+319.6: OTHER: I
+319.8: OTHER: can
+320.0: OTHER: do
+320.2: OTHER: is
+320.4: OTHER: give
+320.6: OTHER: ya
+320.8: OTHER: an
+321.0: OTHER: escort.
+
+321.7: OTHER: Imagine
+321.9: OTHER: ya'll
+322.1: OTHER: are
+322.3: OTHER: running
+322.5: OTHER: late
+322.7: OTHER: to
+322.9: OTHER: work.
+
+323.6: KATHERINE: Oh,
+325.6: KATHERINE: no
+327.6: KATHERINE: sir!
+329.6: KATHERINE: We
+331.6: KATHERINE: wouldn't
+333.6: KATHERINE: want
+335.6: KATHERINE: to
+337.6: KATHERINE: bother
+339.6: KATHERINE: you.
+
+325.3: MARY: That
+325.7: MARY: would
+326.1: MARY: be
+326.1: MARY: wonderful,
+326.3: MARY: Officer.
+
+327.9: MARY: Thank
+328.1: MARY: you
+328.3: MARY: so
+328.5: MARY: much,
+328.7: MARY: sir.
+
+329.3: MARY: Follow
+330.1: MARY: me!
+
+329.3: MARY: I'm
+329.5: MARY: driving!
+
+331.1: MARY: Hurry
+331.3: MARY: up,
+331.5: MARY: Dorothy!
+331.7: MARY: Before
+331.9: MARY: he
+332.1: MARY: changes
+332.3: MARY: his
+332.5: MARY: mind!
+
+333.3: DOROTHY: We're
+333.5: DOROTHY: coming!
+
+333.3: DOROTHY: Hold
+333.5: DOROTHY: your
+333.7: DOROTHY: horses!
+
+342.2: MARY: Yes!
+
+343.1: DOROTHY: Mary!
+343.3: DOROTHY: Slow
+343.5: DOROTHY: down!
+343.7: DOROTHY: You're
+343.9: DOROTHY: so
+344.1: DOROTHY: close!
+
+343.1: MARY: Well,
+343.3: MARY: be
+343.5: MARY: quiet.
+343.7: MARY: He
+343.9: MARY: said
+344.1: MARY: to
+344.3: MARY: follow
+344.5: MARY: him!
+
+346.2: DOROTHY: He
+348.2: DOROTHY: didn't
+350.2: DOROTHY: mean
+352.2: DOROTHY: you
+354.2: DOROTHY: hit
+356.2: DOROTHY: him
+358.2: DOROTHY: behind!
+
+351.0: KATHERINE: Dear
+351.0: KATHERINE: Lord..
+351.0: KATHERINE: I
+352.0: KATHERINE: don't
+352.2: KATHERINE: even
+352.4: KATHERINE: know
+352.6: KATHERINE: where
+352.8: KATHERINE: to
+353.0: KATHERINE: begin!
+
+352.3: MARY: Oh!
+352.5: MARY: I'll
+352.7: MARY: tell
+352.9: MARY: you
+353.1: MARY: where
+353.3: MARY: to
+353.5: MARY: begin!
+
+354.1: MARY: Three
+355.1: MARY: negro
+355.1: MARY: women
+355.3: MARY: are
+355.5: MARY: chasing
+355.7: MARY: a
+355.9: MARY: white
+356.1: MARY: police
+356.3: MARY: officer
+
+357.7: MARY: down
+357.7: MARY: the
+357.7: MARY: highway
+357.9: MARY: in
+358.1: MARY: Hampton,
+358.3: MARY: Virginia
+
+359.2: MARY: 1961.
+
+361.1: MARY: Ladies,
+361.9: MARY: that
+362.9: MARY: there
+362.9: MARY: is
+363.1: MARY: a
+363.3: MARY: God
+363.5: MARY: ordained
+363.7: MARY: miracle!
+
+365.8: KATHERINE: Starting
+366.4: KATHERINE: tomorrow,
+367.0: KATHERINE: I'm
+367.6: KATHERINE: riding
+368.6: KATHERINE: the
+368.6: KATHERINE: bus
+
+393.5: AL HARRISON: Show
+393.7: AL HARRISON: me
+
+396.5: AL HARRISON: No,
+398.5: AL HARRISON: exactly
+
+405.1: OTHER: 46.56.
+
+407.8: OTHER: Approaching
+408.0: OTHER: 7400
+408.2: OTHER: mph
+
+412.2: OTHER: 118
+412.4: OTHER: seconds.
+
+423.4: OTHER: Second
+423.6: OTHER: stage.
+423.8: OTHER: Success.
+
+427.3: OTHER: Korabl-Sputnik-4
+427.5: OTHER: is
+427.7: OTHER: orbital.
+
+431.6: OTHER: Orbital
+431.8: OTHER: entry
+432.0: OTHER: is
+432.2: OTHER: established.
+
+433.7: OTHER: Russian
+433.9: OTHER: orbital
+434.1: OTHER: entry
+434.3: OTHER: is
+434.5: OTHER: established.
+
+437.8: AL HARRISON: Jim
+438.0: AL HARRISON: Webb.
+
+441.1: AL HARRISON: Yes,
+441.3: AL HARRISON: Mr.
+441.5: AL HARRISON: President
+
+442.4: OTHER: We
+443.4: OTHER: certainly
+443.6: OTHER: are,
+443.8: OTHER: sir.
+
+445.1: OTHER: It
+446.1: OTHER: looks
+446.1: OTHER: like
+446.1: OTHER: they've
+447.1: OTHER: achieved
+447.1: OTHER: at
+447.1: OTHER: least
+448.1: OTHER: one
+448.1: OTHER: orbit,
+448.3: OTHER: maybe
+448.5: OTHER: two
+
+450.7: OTHER: Zvezdochka
+451.6: OTHER: is
+452.5: OTHER: ready
+452.5: OTHER: to
+452.5: OTHER: go
+453.5: OTHER: again.
+453.7: OTHER: So
+453.9: OTHER: is
+454.1: OTHER: our
+454.3: OTHER: comrade,
+454.5: OTHER: Ivan.
+
+455.9: OTHER: A
+456.1: OTHER: brave
+456.3: OTHER: space
+456.5: OTHER: traveler.
+
+457.9: OTHER: We
+458.0: OTHER: have
+458.2: OTHER: proven
+458.3: OTHER: life
+458.4: OTHER: can
+458.6: OTHER: be
+458.7: OTHER: sustained
+458.9: OTHER: in
+459.1: OTHER: space.
+
+460.9: OTHER: Now,
+461.1: OTHER: we
+461.3: OTHER: will
+461.5: OTHER: be
+461.7: OTHER: first
+461.9: OTHER: to
+462.1: OTHER: send
+462.3: OTHER: a
+462.5: OTHER: human
+
+462.8: OTHER: A
+464.8: OTHER: damn
+466.8: OTHER: dog!
+
+464.6: OTHER: And
+464.8: OTHER: a
+465.0: OTHER: damn
+465.2: OTHER: mannequin!
+
+469.2: OTHER: And
+469.2: OTHER: then
+469.7: OTHER: a
+470.2: OTHER: 1.6
+471.2: OTHER: megaton
+471.2: OTHER: RDS-37
+472.2: OTHER: thermonuclear
+472.4: OTHER: warhead
+
+473.7: OTHER: drops
+474.7: OTHER: down
+475.7: OTHER: in
+475.7: OTHER: the
+475.7: OTHER: middle
+475.7: OTHER: of
+475.9: OTHER: Des
+476.1: OTHER: Moines.
+
+476.4: PAUL STAFFORD: Well,
+476.6: PAUL STAFFORD: that's
+476.8: PAUL STAFFORD: a
+477.0: PAUL STAFFORD: pretty
+477.2: PAUL STAFFORD: big
+477.4: PAUL STAFFORD: jump,
+477.6: PAUL STAFFORD: sir.
+
+477.9: AL HARRISON: What?
+
+478.9: PAUL STAFFORD: Just
+479.1: PAUL STAFFORD: there's
+479.3: PAUL STAFFORD: that..
+
+478.9: OTHER: Who
+479.1: OTHER: the
+479.3: OTHER: hell
+479.5: OTHER: is
+479.7: OTHER: he?
+
+481.4: AL HARRISON: Paul
+482.4: AL HARRISON: Stafford.
+482.9: AL HARRISON: Our
+483.4: AL HARRISON: Lead
+483.6: AL HARRISON: Engineer,
+483.8: AL HARRISON: Mr.
+484.0: AL HARRISON: Webb.
+
+484.5: AL HARRISON: I
+484.5: AL HARRISON: think
+484.5: AL HARRISON: what
+484.5: AL HARRISON: he
+484.5: AL HARRISON: meant
+484.5: AL HARRISON: to
+484.5: AL HARRISON: say
+485.5: AL HARRISON: is
+485.5: AL HARRISON: that
+485.7: AL HARRISON: speculation,
+485.9: AL HARRISON: at
+486.1: AL HARRISON: least
+
+487.3: AL HARRISON: on
+487.3: AL HARRISON: our
+487.3: AL HARRISON: side
+487.3: AL HARRISON: of
+487.3: AL HARRISON: the
+487.3: AL HARRISON: equation
+488.3: AL HARRISON: by
+488.5: AL HARRISON: definition,
+488.7: AL HARRISON: can
+488.9: AL HARRISON: be..
+
+489.6: AL HARRISON: Just
+490.6: AL HARRISON: a
+490.6: AL HARRISON: little
+490.8: AL HARRISON: dangerous.
+
+491.6: AL HARRISON: Dangerous?
+
+492.7: OTHER: You
+492.7: OTHER: know
+493.7: OTHER: what's
+493.9: OTHER: dangerous,
+494.1: OTHER: Mr.
+494.3: OTHER: Stafford?
+
+495.4: OTHER: Inaction,
+495.6: OTHER: and
+495.8: OTHER: indecision.
+
+497.5: OTHER: Russians
+497.7: OTHER: have
+497.9: OTHER: a
+498.1: OTHER: spy
+498.3: OTHER: satellite
+498.5: OTHER: lapping
+498.7: OTHER: the
+498.9: OTHER: planet,
+
+501.5: OTHER: taking
+501.5: OTHER: pictures
+502.5: OTHER: of
+502.5: OTHER: God
+502.7: OTHER: knows
+502.9: OTHER: what!
+
+504.7: OTHER: The
+505.5: OTHER: President
+505.5: OTHER: is
+505.7: OTHER: demanding
+505.9: OTHER: an
+506.1: OTHER: immediate
+506.3: OTHER: response.
+
+507.8: OTHER: No
+507.8: OTHER: more
+507.8: OTHER: delays.
+507.8: OTHER: Alan
+508.8: OTHER: Shepard,
+509.0: OTHER: John
+509.2: OTHER: Glenn,
+509.4: OTHER: your
+509.6: OTHER: uncle
+509.8: OTHER: Bob.
+
+510.3: OTHER: Doesn't
+510.3: OTHER: matter,
+510.3: OTHER: just
+510.3: OTHER: get
+510.3: OTHER: us
+511.3: OTHER: up
+511.5: OTHER: there,
+511.7: OTHER: Harrison
+
+511.3: OTHER: We
+512.3: OTHER: can't
+512.5: OTHER: justify
+512.7: OTHER: a
+512.9: OTHER: space
+513.1: OTHER: program
+
+513.6: OTHER: that
+515.6: OTHER: doesn't
+517.6: OTHER: put
+519.6: OTHER: anything
+521.6: OTHER: in
+523.6: OTHER: space.
+
+517.8: AL HARRISON: How
+518.2: AL HARRISON: did
+518.6: AL HARRISON: that
+518.8: AL HARRISON: feel
+519.0: AL HARRISON: in
+519.2: AL HARRISON: there,
+519.4: AL HARRISON: Paul?
+
+519.9: AL HARRISON: Do
+520.3: AL HARRISON: you
+520.7: AL HARRISON: think
+520.9: AL HARRISON: you
+521.1: AL HARRISON: enlightened
+521.3: AL HARRISON: the
+521.5: AL HARRISON: Administrator?
+
+524.1: AL HARRISON: No,
+524.3: AL HARRISON: he
+524.5: AL HARRISON: didn't
+524.7: AL HARRISON: look
+524.9: AL HARRISON: enlightened
+525.1: AL HARRISON: to
+525.3: AL HARRISON: me.
+
+526.6: AL HARRISON: He
+526.9: AL HARRISON: look
+527.1: AL HARRISON: enlightened
+527.4: AL HARRISON: to
+527.6: AL HARRISON: you,
+527.8: AL HARRISON: Sam?
+
+526.6: OTHER: Not
+526.8: OTHER: particularly.
+
+529.5: AL HARRISON: And
+530.5: AL HARRISON: just
+530.5: AL HARRISON: so
+530.5: AL HARRISON: you
+530.5: AL HARRISON: know,
+530.5: AL HARRISON: he's
+531.5: AL HARRISON: not
+531.5: AL HARRISON: wrong
+531.5: AL HARRISON: about
+531.7: AL HARRISON: what
+531.9: AL HARRISON: he
+532.1: AL HARRISON: said
+532.3: AL HARRISON: in
+532.5: AL HARRISON: there.
+
+532.4: AL HARRISON: You
+532.6: AL HARRISON: know
+532.8: AL HARRISON: that,
+533.0: AL HARRISON: right?
+
+533.9: AL HARRISON: Because
+534.9: AL HARRISON: now
+534.9: AL HARRISON: that
+534.9: AL HARRISON: they
+534.9: AL HARRISON: can
+535.9: AL HARRISON: get
+535.9: AL HARRISON: up
+535.9: AL HARRISON: there,
+536.1: AL HARRISON: a
+536.3: AL HARRISON: bomb
+536.5: AL HARRISON: will
+536.7: AL HARRISON: follow.
+
+537.5: AL HARRISON: That's
+538.3: AL HARRISON: what
+538.3: AL HARRISON: happens
+538.3: AL HARRISON: to
+538.3: AL HARRISON: all
+538.5: AL HARRISON: our
+538.7: AL HARRISON: good
+538.9: AL HARRISON: ideas.
+
+540.4: AL HARRISON: I
+542.4: AL HARRISON: imagine
+544.4: AL HARRISON: there
+546.4: AL HARRISON: is
+548.4: AL HARRISON: too
+
+542.4: AL HARRISON: Where's
+542.6: AL HARRISON: the
+542.8: AL HARRISON: machine?
+
+543.8: RUTH: Any
+544.0: RUTH: day
+544.2: RUTH: now,
+544.4: RUTH: Mr.
+544.6: RUTH: Harrison.
+
+545.7: AL HARRISON: Any
+545.9: AL HARRISON: day
+546.1: AL HARRISON: now.
+
+545.7: RUTH: Yes,
+545.9: RUTH: sir.
+
+547.5: AL HARRISON: What's
+547.7: AL HARRISON: it
+547.9: AL HARRISON: called?
+
+549.2: AL HARRISON: The
+550.0: AL HARRISON: initials...
+
+549.2: RUTH: The
+549.4: RUTH: IBM.
+
+551.1: PAUL STAFFORD: International
+551.3: PAUL STAFFORD: business
+551.5: PAUL STAFFORD: machine.
+
+552.9: AL HARRISON: Space
+554.9: AL HARRISON: is
+556.9: AL HARRISON: a
+558.9: AL HARRISON: business
+
+556.0: AL HARRISON: I
+556.2: AL HARRISON: need
+556.4: AL HARRISON: a
+556.6: AL HARRISON: mathematician.
+
+557.3: RUTH: I'll
+558.3: RUTH: put
+558.3: RUTH: in
+558.3: RUTH: another
+558.3: RUTH: request,
+558.5: RUTH: sir.
+
+558.3: AL HARRISON: Another
+558.3: AL HARRISON: request.
+
+560.8: AL HARRISON: Jesus
+560.8: AL HARRISON: Christ!
+561.0: AL HARRISON: We
+561.3: AL HARRISON: don't
+561.5: AL HARRISON: have
+561.8: AL HARRISON: a
+561.8: AL HARRISON: single
+561.8: AL HARRISON: person,
+561.8: AL HARRISON: in
+562.8: AL HARRISON: this
+563.0: AL HARRISON: entire
+563.2: AL HARRISON: building,
+
+562.9: AL HARRISON: that
+563.7: AL HARRISON: can
+563.7: AL HARRISON: handle
+563.7: AL HARRISON: Analytic
+563.9: AL HARRISON: Geometry?
+
+564.9: RUTH: That's
+565.1: RUTH: what
+565.3: RUTH: I've
+565.5: RUTH: been
+565.7: RUTH: told.
+
+566.5: AL HARRISON: Well,
+568.5: AL HARRISON: tell
+570.5: AL HARRISON: me
+572.5: AL HARRISON: something
+574.5: AL HARRISON: else,
+576.5: AL HARRISON: Ruth.
+578.5: AL HARRISON: Like
+580.5: AL HARRISON: we're
+582.5: AL HARRISON: going
+584.5: AL HARRISON: to
+586.5: AL HARRISON: find
+588.5: AL HARRISON: such
+590.5: AL HARRISON: a
+592.5: AL HARRISON: person
+
+569.0: AL HARRISON: before
+571.0: AL HARRISON: the
+573.0: AL HARRISON: Russians
+575.0: AL HARRISON: plant
+577.0: AL HARRISON: a
+579.0: AL HARRISON: flag
+581.0: AL HARRISON: on
+583.0: AL HARRISON: the
+585.0: AL HARRISON: damn
+587.0: AL HARRISON: moon.
+
+587.8: DOROTHY: Ladies,
+588.0: DOROTHY: ladies
+
+589.9: DOROTHY: If
+589.9: DOROTHY: you're
+590.1: DOROTHY: tardy,
+590.3: DOROTHY: you
+590.5: DOROTHY: don't
+590.7: DOROTHY: get
+590.9: DOROTHY: an
+591.1: DOROTHY: assignment
+
+591.0: DOROTHY: if
+593.0: DOROTHY: you
+595.0: DOROTHY: don't
+597.0: DOROTHY: get
+599.0: DOROTHY: an
+601.0: DOROTHY: assignment
+603.0: DOROTHY: you
+605.0: DOROTHY: don't
+607.0: DOROTHY: have
+609.0: DOROTHY: a
+611.0: DOROTHY: job.
+
+594.5: DOROTHY: Eleanor.
+594.7: DOROTHY: Data
+594.9: DOROTHY: Reduction,
+595.1: DOROTHY: Building
+595.3: DOROTHY: 202.
+
