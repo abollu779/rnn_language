@@ -373,9 +373,9 @@
 192.8: OTHER: here
 193.0: OTHER: at..
 
-195.5: JOHN GLENN : Anything
-195.7: JOHN GLENN : from
-195.9: JOHN GLENN : Langley?
+195.5: JOHN GLENN: Anything
+195.7: JOHN GLENN: from
+195.9: JOHN GLENN: Langley?
 
 195.5: OTHER: Not
 195.7: OTHER: yet.

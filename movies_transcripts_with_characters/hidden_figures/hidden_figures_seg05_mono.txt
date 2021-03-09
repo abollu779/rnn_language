@@ -24,12 +24,12 @@
 16.8: OTHER: not.
 16.8: OTHER: Sir.
 
-18.7: OTHER : Would
-19.7: OTHER : you
-19.7: OTHER : like
-19.9: OTHER : us
-20.1: OTHER : to
-20.3: OTHER : stop?
+18.7: OTHER: Would
+19.7: OTHER: you
+19.7: OTHER: like
+19.9: OTHER: us
+20.1: OTHER: to
+20.3: OTHER: stop?
 
 21.2: AL HARRISON: No.
 21.4: AL HARRISON: No,

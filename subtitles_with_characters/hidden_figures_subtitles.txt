@@ -2534,7 +2534,7 @@ KATHERINE - It's because we wear glasses
 
 580
 00:37:34,540 --> 00:37:35,650
-KATHERINE  - Have a good day
+KATHERINE - Have a good day
 
 581
 00:37:50,015 --> 00:37:54,230
@@ -2721,7 +2721,7 @@ OTHER - I'm afraid, not. Sir.
 
 621
 00:40:59,570 --> 00:41:01,070
-OTHER  - Would you like us to stop?
+OTHER - Would you like us to stop?
 
 622
 00:41:01,920 --> 00:41:03,410
@@ -3745,7 +3745,7 @@ OTHER - Try!
 852
 00:57:53,915 --> 00:57:56,670
 OTHER - Sir! It might be the selector latch!
-OTHER  - I'm taking a walk!
+OTHER - I'm taking a walk!
 
 853
 00:57:56,694 --> 00:57:59,194
@@ -4845,7 +4845,7 @@ This has to be exact.
 
 1101
 01:18:21,250 --> 01:18:22,330
-PAUL STAFFORD  - Sam
+PAUL STAFFORD - Sam
 
 1102
 01:18:22,600 --> 01:18:26,210
@@ -6230,7 +6230,7 @@ is a OK, and the weather here at..
 
 1406
 01:43:57,385 --> 01:43:59,785
-JOHN GLENN  - Anything from Langley?
+JOHN GLENN - Anything from Langley?
 OTHER - Not yet.
 
 1407
@@ -6715,7 +6715,7 @@ AL HARRISON - Keep talking to him.
 
 1512
 01:53:53,880 --> 01:53:59,550
-MISSION CONTROL COMMANDER  - Roger. The weather in the recovery area:
+MISSION CONTROL COMMANDER - Roger. The weather in the recovery area:
 3 foot waves, 10 miles visibility.
 
 1513

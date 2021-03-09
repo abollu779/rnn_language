@@ -705,10 +705,10 @@
 444.1: OTHER: selector
 446.1: OTHER: latch!
 
-434.1: OTHER : I'm
-436.1: OTHER : taking
-438.1: OTHER : a
-440.1: OTHER : walk!
+434.1: OTHER: I'm
+436.1: OTHER: taking
+438.1: OTHER: a
+440.1: OTHER: walk!
 
 436.7: JOHN GLENN: We're
 437.7: JOHN GLENN: honored
