@@ -1,5 +1,6 @@
 .DS_Store
+.vscode/
 .ipynb_checkpoints/
 movies_audio/
 movies_clips/
-movies_word_level_character_features/
+MELD_friends/
