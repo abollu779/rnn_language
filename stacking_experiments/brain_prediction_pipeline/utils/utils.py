@@ -361,9 +361,9 @@ def run_class_time_CV_crossval_ridge(data, predict_feat_dict,
     return corrs, preds_d, np.vstack(all_test_data)
 
   
-def collect_fold_weights_class_time_CV_fmri_crossval_ridge_neuromod(data, features, regress_features=[], method = 'kernel_ridge', 
+def run_class_time_CV_fmri_crossval_ridge_neuromod(data, features, regress_features=[], method = 'kernel_ridge', 
                                           lambdas = np.array([0.1,1,10,100,1000]),
-                                          detrend = False, n_folds = 12, skip=5):
+                                          detrend = False, n_folds = 12, skip=5, output_fold_weights_only=False):
         
         
     n_words = data.shape[0]
@@ -371,7 +371,15 @@ def collect_fold_weights_class_time_CV_fmri_crossval_ridge_neuromod(data, featur
 
     ind = CV_ind(n_words, n_folds=n_folds)
     
-    fold_weights = {}
+    if output_fold_weights_only:
+        fold_weights = {}
+    else:
+        corrs = np.zeros((n_folds, n_voxels))
+        all_test_data = []
+        all_preds = []
+        all_regressout_test_data = []
+        all_regressout_preds = []
+
     for ind_num in range(n_folds):
         train_ind = ind!=ind_num
         test_ind = ind==ind_num
@@ -399,7 +407,9 @@ def collect_fold_weights_class_time_CV_fmri_crossval_ridge_neuromod(data, featur
         test_data = np.nan_to_num(zscore(np.nan_to_num(test_data)))
         
         train_features = np.nan_to_num(zscore(train_features))
-        test_features = np.nan_to_num(zscore(test_features)) 
+        test_features = np.nan_to_num(zscore(test_features))
+
+        all_test_data.append(test_data)
         
         if len(regress_features) > 0:
             regress_train_features = regress_features[train_ind]
@@ -416,6 +426,13 @@ def collect_fold_weights_class_time_CV_fmri_crossval_ridge_neuromod(data, featur
             preds_train = np.dot(regress_train_features, regress_weights)
             preds_test = np.dot(regress_test_features, regress_weights)
 
+            # Example: Regressing out speaker information from ELMo embeddings. 
+            # We try to predict ELMo embedding using speaker identity. Therefore, it makes sense that:
+            # test_data: test_features (ELMo embeddings)
+            # predictions: preds_test
+            all_regressout_test_data.append(test_features)
+            all_regressout_preds.append(preds_test)
+
             train_features = np.reshape(train_features-preds_train, train_features.shape)
             test_features = np.reshape(test_features-preds_test, test_features.shape)
             print('done regressing out')
@@ -424,12 +441,23 @@ def collect_fold_weights_class_time_CV_fmri_crossval_ridge_neuromod(data, featur
 
         start_time = tm.time()
         weights, _ = cross_val_ridge(train_features,train_data, n_splits = 10, lambdas = np.array([10**i for i in range(-6,10)]), method = 'plain',do_plot = False)
-
-        fold_weights[ind_num] = weights
-            
+        if output_fold_weights_only:
+            fold_weights[ind_num] = weights
+        else:
+            preds = np.dot(test_features, weights)
+            corrs[ind_num,:] = corr(preds,test_data)
+            all_preds.append(preds)
+            del weights
         print('fold {} completed, took {} seconds'.format(ind_num, tm.time()-start_time))
-
-    return fold_weights
+    
+    if output_fold_weights_only:
+        output = {'fold_weights_t':fold_weights}
+    else:
+        if len(regress_features)>0:
+            all_regressout_preds = np.vstack(all_regressout_preds)
+            all_regressout_test_data = np.vstack(all_regressout_test_data)
+        output = {'corrs_t': corrs, 'preds_t': np.vstack(all_preds), 'test_t':np.vstack(all_test_data), 'regressout_preds_t':all_regressout_preds, 'regressout_test_t':all_regressout_test_data}
+    return output
 
 
 def run_class_time_CV_fmri_crossval_ridge(data, predict_feat_dict,

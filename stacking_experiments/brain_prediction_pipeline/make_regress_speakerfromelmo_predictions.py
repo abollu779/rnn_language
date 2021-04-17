@@ -165,32 +165,8 @@ def save_brain_activity_preds(args):
 
         print(feat_name_list)
         for feat_name in feat_name_list:
-
-            feat_name_split = feat_name.split('-')
-
-            if 'prev' in feat_name_split or 'back' in feat_name_split:
-                delay = int(feat_name_split[1])
-            elif 'next' in feat_name_split or 'fwd' in feat_name_split:
-                delay = -int(feat_name_split[1])
-            else:
-                delay = 0
-
-            if delay == 0:
-                print('using delay of {}'.format(delay))
-                features = _get_TR_features(args.subject, layer=0, sequence_length=1)
-                regress_features.append(features)
-            else:
-                while abs(delay) > 0:
-                    print('using delay of {}'.format(delay))
-
-                    features = _get_TR_features(args.subject, layer=0, sequence_length=1)
-
-                    regress_features.append(features)  
-            
-                    delay = delay - np.sign(delay)
-            
-                    if 'back' in feat_name_split or 'fwd' in feat_name_split:   # only want the features at a particular delayed position, not all feats up to that point
-                        break
+            features = _get_TR_features(args.subject, feat_name, layer=1, sequence_length=25)
+            regress_features.append(features)
                                     
         return np.hstack(regress_features)
     ###########
@@ -200,21 +176,23 @@ def save_brain_activity_preds(args):
     else:
         regress_features = _load_features_to_regress_out(regress_feat_names_list)
     
-    fold_weights_t = run_class_time_CV_fmri_crossval_ridge_neuromod(data, delayed_predict_features, regress_features, output_fold_weights_only=True)['fold_weights_t']
+    results = run_class_time_CV_fmri_crossval_ridge_neuromod(data, delayed_predict_features, regress_features)
+    corrs_t, preds_t, test_t = results['corrs_t'], results['preds_t'], results['test_t']
+    regressout_preds_t, regressout_test_t = results['regressout_preds_t'], results['regressout_test_t']
 
     # Save fold weights
     if args.predict_feat_type == 'elmo' or args.predict_feat_type == 'bert':
         if args.regress_feat_types != '0':
-            fname = 'fold_weights_{}_rep_{}_with_{}_layer_{}_len_{}_regress_out_{}'.format(args.output_fname_prefix,args.repetition, args.predict_feat_type, args.layer, args.sequence_length, '+'.join(regress_feat_names_list))
+            fname = 'predict_{}_rep_{}_with_{}_layer_{}_len_{}_regress_out_{}'.format(args.output_fname_prefix,args.repetition, args.predict_feat_type, args.layer, args.sequence_length, '+'.join(regress_feat_names_list))
         else:
-            fname = 'fold_weights_{}_rep_{}_with_{}_layer_{}_len_{}'.format(args.output_fname_prefix, args.repetition,args.predict_feat_type, args.layer, args.sequence_length)
+            fname = 'predict_{}_rep_{}_with_{}_layer_{}_len_{}'.format(args.output_fname_prefix, args.repetition,args.predict_feat_type, args.layer, args.sequence_length)
     elif args.predict_feat_type == 'speaker' or args.predict_feat_type == 'binary_speech':
-        fname = 'fold_weights_{}_rep_{}_with_{}'.format(args.output_fname_prefix,args.repetition, args.predict_feat_type) 
+        fname = 'predict_{}_rep_{}_with_{}'.format(args.output_fname_prefix,args.repetition, args.predict_feat_type) 
     else:
         if args.regress_feat_types != '0':
-            fname = 'fold_weights_{}_rep_{}_with_{}_regress_out_{}'.format(args.output_fname_prefix, args.repetition,args.predict_feat_type, '+'.join(regress_feat_names_list))
+            fname = 'predict_{}_rep_{}_with_{}_regress_out_{}'.format(args.output_fname_prefix, args.repetition,args.predict_feat_type, '+'.join(regress_feat_names_list))
         else:
-            fname = 'fold_weights_{}_rep_{}_with_{}'.format(args.output_fname_prefix, args.repetition, args.predict_feat_type)
+            fname = 'predict_{}_rep_{}_with_{}'.format(args.output_fname_prefix, args.repetition, args.predict_feat_type)
     
     if args.perm_shift > 0:
         fname = fname + '_shift_{}'.format(args.perm_shift)
@@ -222,7 +200,7 @@ def save_brain_activity_preds(args):
         fname = fname + '_block_{}'.format(args.perm_block)
 
     print('saving: {}'.format(args.output_dir + fname))
-    np.save(args.output_dir + fname, {'fold_weights_t':fold_weights_t})
+    np.save(args.output_dir + fname, {'corrs_t':corrs_t,'preds_t':preds_t,'test_t':test_t,'regressout_preds_t':regressout_preds_t,'regressout_test_t':regressout_test_t})
 
 
 if __name__ == '__main__':
