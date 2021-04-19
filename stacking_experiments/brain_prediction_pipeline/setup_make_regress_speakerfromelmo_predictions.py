@@ -16,14 +16,14 @@ save_dir = '/share/volume0/abollu/neuromod/results'
 
 
 repetition = 2
-nlp_feat_type = 'elmo' #'elmo'
+nlp_feat_type = 'words_per_TR' #'elmo','speaker','binary_speech','words_per_TR'
 
 
 nlp_feat_dir_format = '/home/abollu/cneuromod/brain_prediction_pipeline'
 delay = 0
 subjects = fmri_subjects
 
-all_regress_feat_types = ['speaker', '0'] #'0'
+all_regress_feat_types = ['0'] #'0'
 
 #other_feat_type = [0,'prev-1-emb',0,'emb'] #[0,'emb','prev-24-emb','emb+prev-24-emb',0,'prev-24-emb','prev-1-context','prev-24-emb+prev-1-context']
 
@@ -40,11 +40,11 @@ layer = 1
 seq_len = 25
 
 
-predict_feat_type = nlp_feat_type #'elmo'
+predict_feat_type = nlp_feat_type
 
 for subject in cneuromod_subjects:
 	for regress_feat_types in all_regress_feat_types:	
-                output_dir = '{}/{}_regress{}/'.format(save_dir,predict_feat_type,regress_feat_types)
+                output_dir = '{}/{}_without_{}/'.format(save_dir,predict_feat_type,regress_feat_types)
                 if not os.path.exists(output_dir):
                     os.makedirs(output_dir)
                 output_fname = subject

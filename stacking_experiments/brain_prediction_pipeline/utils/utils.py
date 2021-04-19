@@ -377,10 +377,10 @@ def run_class_time_CV_fmri_crossval_ridge_neuromod(data, features, regress_featu
         corrs = np.zeros((n_folds, n_voxels))
         all_test_data = []
         all_preds = []
-        all_elmo_data = []
-        all_speaker2elmo_preds = []
-        all_speaker_data = []
-        all_elmo2speaker_preds = []
+        all_predictfeat_data = []
+        all_regressfeat2predictfeat_preds = []
+        all_regressfeat_data = []
+        all_predictfeat2regressfeat_preds = []
 
     for ind_num in range(n_folds):
         train_ind = ind!=ind_num
@@ -432,14 +432,14 @@ def run_class_time_CV_fmri_crossval_ridge_neuromod(data, features, regress_featu
             # We try to predict ELMo embedding using speaker identity. Therefore, it makes sense that:
             # test_data: test_features (ELMo embeddings)
             # predictions: preds_test
-            all_elmo_data.append(test_features)
-            all_speaker2elmo_preds.append(preds_test)
+            all_predictfeat_data.append(test_features)
+            all_regressfeat2predictfeat_preds.append(preds_test)
 
             # According to above example, this would try to predict speaker identity using ELMo embedding.
-            opposite_regress_weights, _ = cross_val_ridge(train_features, regress_train_features, n_splits=10, lambdas = np.array([10**i for i in range(-6,10)]), method = 'kernel_ridge',do_plot = False)
-            opposite_preds_test = np.dot(test_features, opposite_regress_weights)
-            all_speaker_data.append(regress_test_features)
-            all_elmo2speaker_preds.append(opposite_preds_test)
+            backwards_regress_weights, _ = cross_val_ridge(train_features, regress_train_features, n_splits=10, lambdas = np.array([10**i for i in range(-6,10)]), method = 'kernel_ridge',do_plot = False)
+            backwards_preds_test = np.dot(test_features, backwards_regress_weights)
+            all_regressfeat_data.append(regress_test_features)
+            all_predictfeat2regressfeat_preds.append(backwards_preds_test)
 
             train_features = np.reshape(train_features-preds_train, train_features.shape)
             test_features = np.reshape(test_features-preds_test, test_features.shape)
@@ -462,11 +462,11 @@ def run_class_time_CV_fmri_crossval_ridge_neuromod(data, features, regress_featu
         output = {'fold_weights_t':fold_weights}
     else:
         if len(regress_features)>0:
-            all_elmo_data = np.vstack(all_elmo_data)
-            all_speaker2elmo_preds = np.vstack(all_speaker2elmo_preds)
-            all_speaker_data = np.vstack(all_speaker_data)
-            all_elmo2speaker_preds = np.vstack(all_elmo2speaker_preds)
-        output = {'corrs_t': corrs, 'preds_t': np.vstack(all_preds), 'test_t':np.vstack(all_test_data), 'speaker2elmo_preds_t':all_speaker2elmo_preds, 'elmo_test_t':all_elmo_data, 'elmo2speaker_preds_t':all_elmo2speaker_preds, 'speaker_test_t':all_speaker_data}
+            all_predictfeat_data = np.vstack(all_predictfeat_data)
+            all_regressfeat2predictfeat_preds = np.vstack(all_regressfeat2predictfeat_preds)
+            all_regressfeat_data = np.vstack(all_regressfeat_data)
+            all_predictfeat2regressfeat_preds = np.vstack(all_predictfeat2regressfeat_preds)
+        output = {'corrs_t': corrs, 'preds_t': np.vstack(all_preds), 'test_t':np.vstack(all_test_data), 'regressfeat2predictfeat_preds_t':all_regressfeat2predictfeat_preds, 'predictfeat_test_t':all_predictfeat_data, 'predictfeat2regressfeat_preds_t':all_predictfeat2regressfeat_preds, 'regressfeat_test_t':all_regressfeat_data}
     return output
 
 
