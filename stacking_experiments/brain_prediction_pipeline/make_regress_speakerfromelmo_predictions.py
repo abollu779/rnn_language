@@ -143,6 +143,9 @@ def save_brain_activity_preds(args):
             elif nlp_feat_type == 'binary_speech':
                 loaded = np.load('/share/volume0/cneuromod_data/nlp_features/movie10/figures/character_feats/hidden_figures_seg{}.npy'.format(run),allow_pickle=True)
                 aligned_features = lanczosinterp2D(np.ones(loaded.item()['char_feats'].shape), loaded.item()['timestamps'], np.arange(0,num_TRs)*TR_duration, window=3)
+            elif nlp_feat_type == 'word_rate':
+                loaded = np.load('/share/volume0/abollu/neuromod/data/words_per_TR/sub{}/hidden_figures_seg{}.npy'.format(subject, run))
+                aligned_features = loaded # since word rate data is already collected with respect to TR times
             TR_aligned_features.append(aligned_features[START_TRIM_NUM:-END_TRIM_NUM])
 
             print('done loading features for run {}'.format(subj_run))
@@ -178,7 +181,8 @@ def save_brain_activity_preds(args):
     
     results = run_class_time_CV_fmri_crossval_ridge_neuromod(data, delayed_predict_features, regress_features)
     corrs_t, preds_t, test_t = results['corrs_t'], results['preds_t'], results['test_t']
-    regressout_preds_t, regressout_test_t = results['regressout_preds_t'], results['regressout_test_t']
+    speaker2elmo_preds_t, elmo_test_t = results['speaker2elmo_preds_t'], results['elmo_test_t']
+    elmo2speaker_preds_t, speaker_test_t = results['elmo2speaker_preds_t'], results['speaker_test_t']
 
     # Save fold weights
     if args.predict_feat_type == 'elmo' or args.predict_feat_type == 'bert':
@@ -200,7 +204,7 @@ def save_brain_activity_preds(args):
         fname = fname + '_block_{}'.format(args.perm_block)
 
     print('saving: {}'.format(args.output_dir + fname))
-    np.save(args.output_dir + fname, {'corrs_t':corrs_t,'preds_t':preds_t,'test_t':test_t,'regressout_preds_t':regressout_preds_t,'regressout_test_t':regressout_test_t})
+    np.save(args.output_dir + fname, {'corrs_t':corrs_t,'preds_t':preds_t,'test_t':test_t,'speaker2elmo_preds_t':speaker2elmo_preds_t,'elmo_test_t':elmo_test_t,'elmo2speaker_preds_t':elmo2speaker_preds_t,'speaker_test_t':speaker_test_t})
 
 
 if __name__ == '__main__':
