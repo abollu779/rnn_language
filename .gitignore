@@ -1,6 +1,10 @@
 .DS_Store
 .vscode/
 .ipynb_checkpoints/
-movies_audio/
-movies_clips/
-MELD_friends/
+stimulus_data_and_scripts/movies_audio/
+stimulus_data_and_scripts/movies_clips/
+stimulus_data_and_scripts/MELD_friends/
+stimulus_data_and_scripts/words_per_TR/
+experiment_code/previous_results/
+experiment_code/results/
+experiment_code/stacking_results/

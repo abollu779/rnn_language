@@ -1,0 +1,899 @@
+5.4: My
+5.6: numbers
+5.8: are
+6.0: spot
+6.2: on.
+
+8.6: I
+9.0: will
+9.1: double
+9.2: check
+9.6: them,
+9.8: sir.
+10.1: No
+10.3: problem.
+
+20.7: I
+20.7: am
+21.1: not
+21.3: gonna
+21.5: be
+21.6: able
+21.7: to..
+21.8: Work
+21.9: on
+22.0: what
+22.1: you
+22.2: can
+22.3: read.
+
+22.8: The
+23.2: rest
+23.5: is
+23.7: classified.
+24.3: You
+24.4: do
+24.4: not
+24.6: have
+24.7: clearance.
+
+46.2: Excuse
+46.7: me...
+
+47.0: May
+47.2: I
+47.4: ask
+47.6: you
+47.8: where
+48.0: the
+48.2: ladies'
+48.4: room
+48.6: is?
+
+48.4: Sorry,
+49.3: I
+49.6: have
+49.9: no
+50.1: idea
+50.3: where
+50.4: your
+50.5: bathroom
+50.9: is?
+
+52.3: Yes,
+52.8: sir.
+
+54.1: Ah!
+54.3: Yes.
+
+139.9: Ruth!
+140.1: Yes,
+140.3: Mr.
+140.5: Harrison.
+
+142.6: Where
+142.7: is
+143.2: that
+143.5: girl
+143.6: with
+143.8: the
+144.0: numbers?
+
+145.1: On
+145.5: a...
+145.6: break.
+
+148.4: We
+148.8: take
+149.0: breaks
+149.3: now?
+
+177.3: My
+177.8: God,
+178.1: where
+178.4: have
+178.5: you
+178.7: been?
+178.8: Are
+179.0: you
+179.2: finished
+179.4: yet?
+
+180.6: Almost.
+180.8: He
+181.0: said
+181.2: about
+181.4: the
+181.6: end
+181.8: of
+182.0: the
+182.2: day?
+
+182.6: The
+182.8: end
+183.3: of
+183.4: the
+183.5: day
+183.6: around
+183.8: here
+183.9: was
+184.2: yesterday.
+
+186.2: I
+186.4: need
+186.7: those
+186.8: done
+187.0: first.
+
+187.2: He
+187.4: wants
+187.6: those
+187.8: done
+188.0: first.
+
+188.6: OK!
+188.8: Get
+189.0: going.
+
+259.6: Mr.
+260.1: Harrison.
+
+262.3: Oh!
+262.4: Yeah,
+263.2: just
+263.4: set
+263.6: up,
+263.8: you
+264.0: know.
+
+267.4: And
+267.5: Stafford's
+268.5: heat
+268.6: shield
+268.8: calcs?
+
+271.0: It
+271.0: is
+271.6: hard
+271.9: to
+272.0: be
+272.1: sure,
+272.3: sir.
+
+273.7: Hard
+273.9: to
+274.1: be
+274.3: sure.
+
+275.9: You
+276.0: know
+276.1: what
+276.3: we
+276.4: are
+276.6: doing
+276.7: here?
+
+279.3: Trying
+279.8: to
+279.8: put
+280.0: a
+280.1: man
+280.3: into
+280.5: space,
+280.7: sir.
+
+281.1: That
+281.3: is
+281.5: right.
+
+283.4: That
+283.5: is
+284.0: right.
+284.1: So
+284.3: you
+284.4: can
+284.5: throw
+284.6: that
+284.8: in
+285.0: the
+285.0: trash.
+
+285.6: Excuse
+286.3: me?
+
+287.2: I
+287.5: said
+288.0: you
+288.2: can
+288.3: throw
+288.6: it
+288.7: away
+
+290.0: Here.
+
+292.0: It
+292.3: is
+292.6: not
+292.7: an
+292.9: insult
+293.1: to
+293.2: your
+293.4: work.
+293.6: It
+293.8: is
+294.0: just..
+
+294.4: ..
+294.5: Obsolete.
+294.9: That
+295.4: is
+295.6: how
+295.7: fast
+296.1: things
+296.2: are
+296.5: moving
+296.7: around
+296.9: here.
+
+297.6: If
+297.8: I
+298.0: said
+298.2: I
+298.4: was
+298.6: sorry,
+298.8: I
+299.0: would
+299.2: be
+299.4: saying
+299.6: it
+299.8: all
+300.0: day.
+
+301.0: What
+301.2: I
+301.5: am
+301.7: asking
+302.0: you
+302.1: to
+302.2: do..
+302.3: What
+302.5: I
+302.7: am
+302.9: asking
+303.1: everyone
+303.5: in
+303.7: that
+303.9: room,
+
+304.3: all
+304.8: my...
+305.3: geniuses,
+305.8: is
+306.4: to
+306.6: look
+306.8: beyond
+307.2: the
+307.4: numbers.
+
+308.6: To
+308.8: look
+309.2: around
+309.4: them.
+
+311.0: Through
+311.4: them.
+
+312.7: For
+312.8: answers
+313.2: to
+313.6: questions
+313.7: we
+313.9: do
+314.2: not
+314.3: even
+314.4: know
+314.5: to
+314.7: ask.
+
+315.7: Math
+316.3: that
+316.4: does
+316.4: not
+316.7: yet
+316.9: exist.
+
+318.3: Because
+318.9: without
+319.2: it,
+319.3: we
+319.3: are
+319.4: not
+319.5: going
+319.8: anywhere.
+
+320.4: I
+320.6: mean,
+320.8: we
+321.0: are
+321.3: staying
+321.5: on
+321.7: the
+321.9: ground.
+322.1: We
+322.3: are
+322.5: not...
+
+323.0: flying
+323.4: into
+323.8: space.
+324.0: We
+324.2: are
+324.4: not..
+
+324.7: Circling
+324.8: the
+325.0: earth.
+325.1: And
+325.3: we
+325.5: are
+326.0: certainly
+326.3: not
+326.4: touching
+326.7: the
+327.1: moon.
+327.2: And
+327.4: in
+327.6: my
+327.7: mind..
+
+329.8: In
+329.9: my
+330.4: mind,
+330.8: I
+330.8: am
+330.9: already
+331.1: there.
+
+334.4: Are
+334.9: you?
+
+337.0: Yes,
+337.6: sir.
+
+339.0: Good.
+
+340.4: Because
+341.0: I
+341.0: do
+341.0: not
+341.2: need
+341.4: another
+341.6: smart
+342.0: girl
+342.2: with
+342.3: an
+342.4: adding
+342.7: machine.
+
+346.4: Can
+346.9: I
+347.1: go,
+347.3: sir?
+
+350.6: Go?
+350.8: Yeah.
+351.0: Go,
+351.2: yeah.
+
+353.8: Yes,
+354.7: you
+354.8: can
+355.0: go
+
+379.7: I
+379.9: am
+380.1: saying
+380.3: this
+380.5: is
+380.7: so
+380.9: much.
+381.1: I
+381.3: am
+381.5: not
+381.7: saying
+381.9: that..
+382.1: I..
+
+387.0: We
+387.0: have
+387.4: been
+387.5: waiting
+387.7: for
+387.9: hours.
+
+388.0: Next
+388.8: time
+389.0: you
+389.1: take
+389.2: the
+389.4: bus.
+
+389.8: She
+389.9: is
+390.5: in
+390.6: a
+390.7: mood.
+
+410.0: I
+410.2: have
+410.4: not
+410.6: been
+410.8: late
+411.0: one
+411.4: day
+411.7: in
+412.0: ten
+412.3: years.
+412.5: Have
+412.8: not
+413.1: been
+413.4: out
+413.5: sick.
+
+414.2: Have
+414.2: not
+414.7: complained.
+415.2: My
+415.7: work's
+416.2: on
+416.2: time.
+416.4: It
+416.6: is
+416.8: done
+417.0: right.
+417.2: It
+417.4: is
+417.6: done
+417.8: well.
+
+418.0: It
+418.2: is
+418.5: not
+418.7: fair,
+418.8: that
+419.0: is
+419.2: a
+419.3: fact.
+
+419.5: What
+419.8: is
+420.1: not
+420.3: fair
+420.5: is
+420.7: having
+420.9: the
+421.2: responsibility
+421.3: of
+421.5: the
+421.7: Supervisor,
+
+422.0: but
+422.7: not
+422.8: the
+423.0: title
+423.2: or
+423.4: the
+423.6: pay.
+
+424.9: Watching
+425.1: you
+425.3: two
+425.5: move
+425.7: on.
+
+427.3: Now
+427.7: do
+427.7: not
+427.8: get
+427.9: me
+428.0: wrong.
+
+429.0: Any
+429.3: upward
+429.7: movement
+430.1: is
+430.3: movement
+430.6: for
+430.8: us
+431.0: all
+
+432.9: It
+433.1: just
+433.3: is
+433.5: not
+433.7: movement
+433.9: for
+434.1: me.
+
+434.1: Truth
+435.1: be
+435.2: told,
+435.2: Dorothy,
+435.6: I
+436.0: do
+436.0: not
+436.2: really
+436.5: know
+436.6: if
+436.7: I
+436.8: can
+436.9: keep
+437.2: up
+437.3: in
+437.6: that
+437.7: room.
+
+439.1: I
+439.3: will
+439.5: be
+439.7: back
+439.9: with
+440.1: the
+440.3: Computers
+440.5: in
+440.7: a
+440.9: week,
+
+441.9: or
+441.9: out
+441.9: of
+441.9: a
+442.0: job
+443.1: entirely.
+
+443.6: Oh,
+443.8: please!
+444.0: You
+444.2: are
+444.4: better
+444.6: with
+444.8: the
+445.0: numbers
+445.2: than
+445.4: anyone
+445.6: in
+445.8: the
+446.0: cabin
+446.2: and
+446.4: you
+446.6: know
+446.8: it.
+
+447.6: Make
+448.5: that
+448.6: pencil
+449.0: move
+449.2: as
+449.4: fast
+449.6: as
+449.8: your
+449.9: mind
+450.1: does,
+450.3: you
+450.3: will
+450.4: be
+450.5: fine.
+
+451.5: And
+451.9: you.
+452.2: Have
+453.2: some
+453.4: respect!
+453.6: Get
+453.8: your
+454.0: damn
+454.2: feet
+454.4: off
+454.6: my
+454.8: dash
+455.0: board.
+
+455.3: This
+455.5: is
+455.7: not
+455.9: your
+456.2: living
+456.5: room.
+
+460.9: I
+461.3: sound
+461.7: like
+461.7: a
+461.9: supervisor,
+462.1: do
+462.3: not
+462.5: I?
+
+462.8: A
+463.0: mean,
+463.2: ole
+463.4: salty
+463.6: one.
+
+464.1: Riddled
+465.1: with
+465.2: authority.
+465.5: No
+465.9: question.
+
+467.8: You
+468.4: do
+468.4: not
+468.6: mess
+468.8: with,
+469.0: Mrs.
+469.2: Vaughan.
+
+470.8: Turn
+471.0: that
+471.2: music
+471.4: up
+
+488.7: Goodnight,
+488.9: Katherine!
+489.1: Bye,
+489.3: Kath!
+
+491.2: Goodnight,
+491.4: ladies!
+491.7: See
+491.9: you
+492.2: in
+492.9: the
+493.1: morning.
+
+502.5: Hey
+502.9: baby
+503.3: Hello,
+503.5: mamma.
+
+505.0: I
+505.1: was
+505.2: fixing
+506.3: to
+506.4: call
+506.4: the
+506.8: National
+507.2: Guard.
+
+509.2: Sorry,
+509.4: Momma.
+
+510.8: New
+511.3: assignment.
+
+513.1: Space
+513.6: Task
+513.8: Group.
+
+513.9: Oh
+514.5: my
+515.2: word,
+515.7: that
+515.8: sounds
+516.0: important
+
+517.2: It
+517.3: is
+517.8: a
+517.8: promotion?
+
+519.8: Might
+520.3: be
+520.4: a
+520.5: slight
+520.9: promotion.
+
+522.5: But
+523.0: you
+523.1: want
+523.3: the
+523.5: job,
+523.6: right?
+
+525.7: I
+525.8: think
+526.5: so.
+
+527.3: It
+527.4: is
+527.5: a
+527.7: challenge.
+527.9: But..
+
+529.3: Well,
+529.5: it
+529.7: is
+530.0: nothing
+530.3: you
+530.5: can
+530.5: not
+530.7: handle,
+530.8: Katherine.
+
+533.5: Thank
+534.0: you,
+534.2: mamma.
+
+536.7: Are
+537.0: they
+537.3: asleep
+537.4: yet?
+537.7: They
+538.0: are
+538.4: pretending
+538.9: to
+539.2: be.
+
+541.9: They
+541.9: are
+541.9: not
+542.0: pretending
+542.2: well
+542.4: enough
+
+544.8: Thank
+545.0: you,
+545.2: mamma.
+545.4: Love
+545.6: you.
+
+546.6: This
+547.5: is
+547.7: my
+547.9: bed!
+
+552.1: What
+552.3: are
+552.5: you
+552.7: doing?
+
+553.3: It
+553.5: is
+553.8: not
+554.1: fair
+554.6: how
+554.9: Joylette
+555.2: gets
+555.6: to
+555.8: sleep
+556.0: by
+556.1: herself
+556.4: cause
+556.8: she
+557.2: is
+557.6: the
+557.8: oldest.
+
+558.0: Yes
+558.2: it
+558.4: is
+558.6: fair
+
+561.3: Constance,
+561.5: Kathy,
+561.7: sit.
+
+567.7: Now,
+568.2: I
+568.9: understand
+569.8: you
+570.5: want
+570.8: to
+570.9: be
+571.1: grown.
+571.4: And
+572.0: have
+572.3: your
+572.5: own
+572.6: space
+
+573.8: So
+574.2: whoever
+574.6: sleeps
+575.0: in
+575.2: that
+575.4: bed,
+
+575.5: in
+576.1: Joylette's
+576.7: place,
+
+577.2: will
+578.0: also
+578.4: do
+578.7: the
+578.7: dishes,
+
+579.5: take
+579.8: out
+580.0: the
+580.2: trash,
+580.7: and
+581.2: do
+581.4: all
+582.0: of
+582.2: Joylette's
+582.4: chores
+
+583.8: That
+584.0: is
+584.2: okay.
+584.4: Never
+584.6: mind.
+
+585.8: She
+586.0: is
+586.2: not
+586.4: so
+586.6: terrible
+586.8: to
+587.0: share
+587.2: with.
+
+590.4: OK.
+
+591.7: Then
+591.8: do
+591.8: not
+592.4: let
+592.5: me
+592.6: come
+592.8: home
+593.0: and
+593.3: find
+593.4: you
+593.5: like
+593.8: this
+593.8: again,
+594.0: you
+594.2: hear
+594.4: me?
+
+594.8: You
+595.0: are
+595.3: supposed
+595.8: to
+595.8: been
+596.1: asleep,
+596.5: a
+596.9: long
+597.1: time
+597.3: ago.
+
+597.4: We
+598.3: just
+598.5: wanted
+598.8: to
+598.9: say
+599.0: goodnight.
+
+599.4: You
+599.4: have
+600.3: been
+600.4: gone
+600.6: for
+600.9: 300
+601.9: hours.
+
+604.4: I
+604.6: work
+604.8: a
+605.0: full-time
+605.2: job
+605.4: now.
+605.6: You
+605.8: all
+606.0: know
+606.2: that.
+

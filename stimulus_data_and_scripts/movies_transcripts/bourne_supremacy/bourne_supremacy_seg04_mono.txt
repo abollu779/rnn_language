@@ -1,0 +1,897 @@
+2.2: But
+2.6: I
+2.6: promise
+2.8: you
+3.0: this,
+
+5.0: you
+5.0: are
+5.3: gonna
+5.6: play
+5.7: ball
+5.8: one
+6.1: way
+6.2: or
+6.3: the
+6.3: other.
+
+16.7: This
+17.0: is
+17.4: Nevins.
+
+17.8: This
+18.0: is
+18.2: Tom
+18.4: Cronin,
+18.6: CI
+18.8: Operations
+19.0: Officer
+
+19.9: calling
+20.2: from
+20.3: Langley,
+20.7: Virginia.
+
+21.2: Do
+21.4: you
+21.6: have
+21.8: a
+22.0: Jason
+22.2: Bourne
+22.4: in
+22.6: custody?
+
+23.0: Yes,
+23.5: I
+23.6: do.
+
+24.1: Listen,
+24.3: he
+24.6: is
+25.0: an
+25.1: Agency
+25.6: priority
+26.0: target.
+
+28.1: Detain
+28.3: him
+28.5: and
+28.7: call
+28.9: me
+29.1: Back
+29.3: as
+29.5: soon
+29.7: as
+29.9: he
+30.1: is
+30.3: secure.
+
+30.5: I
+30.5: understand.
+
+76.9: He
+77.1: has
+77.3: been
+77.5: detained.
+77.7: Here
+77.9: is
+78.1: the
+78.3: number.
+
+79.5: He
+79.7: is
+79.9: being
+80.1: interrogated
+80.3: by
+80.5: a
+80.7: field
+80.9: officer
+81.1: out
+81.3: of
+81.5: the
+81.7: Consulate.
+
+97.5: Hello.
+
+98.5: This
+98.7: is
+98.9: Pamela
+99.1: Landy,
+99.3: CI
+99.5: Supervisor.
+
+100.0: Where
+100.2: do
+100.4: we
+100.6: stand?
+
+101.9: I
+102.4: think
+103.0: he
+103.5: got
+104.1: away.
+
+106.2: Damn
+106.7: it.
+
+108.8: Have
+109.0: you
+109.2: locked
+109.4: down
+109.6: the
+109.8: area?
+
+110.4: Locked
+111.1: it
+111.2: down?
+111.4: No,
+111.6: no.
+
+112.1: This
+112.3: is...
+112.6: This
+112.9: is
+113.2: Italy.
+113.5: They
+114.6: do
+114.6: not
+114.7: exactly
+114.9: lock
+115.1: down.
+
+115.5: How
+115.5: long
+115.5: have
+115.6: you
+115.6: worked
+115.7: for
+115.7: the
+115.8: Agency?
+
+116.7: Me?
+117.5: For
+117.6: four
+117.8: years.
+
+118.2: Well,
+118.4: if
+118.6: you
+118.8: ever
+119.0: wanna
+119.2: make
+119.4: it
+119.6: to
+119.8: five,
+
+119.7: you
+119.9: are
+120.1: gonna
+120.3: listen
+120.5: to
+120.7: me
+120.9: real
+121.1: close.
+
+121.4: Jason
+121.6: Bourne
+121.8: is
+122.0: armed
+122.2: and
+122.4: extremely
+122.6: dangerous.
+
+123.3: Last
+123.5: week
+123.7: in
+123.9: Berlin,
+124.1: he
+124.5: assassinated
+124.7: two
+124.9: men,
+
+125.4: one
+125.6: a
+125.8: highly
+126.0: experienced
+126.2: field
+126.4: officer.
+
+126.9: I
+127.1: want
+127.4: you
+127.4: to
+127.5: secure
+127.8: that
+128.1: area.
+
+128.7: I
+128.8: want
+129.1: any
+129.3: evidence
+129.7: secured,
+130.0: and
+130.1: I
+130.2: want
+130.4: it
+130.5: done
+130.5: right
+130.7: now.
+
+130.9: Is
+131.1: that
+131.3: clear?
+131.5: Yes,
+131.7: sir...
+131.9: Ma'am.
+
+132.9: I
+132.9: am
+133.4: getting
+133.6: on
+133.7: a
+133.7: plane
+133.8: to
+134.0: Berlin
+134.3: in
+134.4: 45
+134.7: minutes
+
+135.1: which
+135.3: means
+135.5: you
+135.7: are
+135.9: gonna
+136.1: call
+136.3: me
+136.5: Back
+136.7: in
+136.9: 30.
+
+136.8: And
+136.9: when
+137.0: I
+137.2: ask
+137.3: you
+137.4: where
+137.6: we
+137.7: stand,
+138.0: I
+138.2: had
+138.3: better
+138.5: be
+138.6: impressed.
+
+143.9: Berlin?
+144.3: I
+144.7: already
+145.1: have
+145.3: a
+145.5: team
+145.7: in
+145.9: place
+146.1: there.
+
+145.7: I
+145.9: doubt
+146.1: that
+146.3: Bourne's
+146.5: in
+146.7: Naples
+146.9: ready
+147.1: to
+147.3: start
+147.5: a
+147.7: family.
+
+147.9: You
+148.2: have
+148.5: no
+148.7: idea
+149.3: what
+149.4: you
+149.5: are
+149.6: getting
+149.8: into.
+
+149.9: Do
+150.1: you
+150.3: have
+150.5: any
+150.7: idea?
+150.9: From
+151.1: the
+151.3: minute
+151.5: he
+151.7: left
+151.9: Treadstone,
+
+152.1: he
+152.3: has
+152.5: killed
+152.7: and
+152.9: eluded
+153.1: every
+153.3: single
+153.5: person
+153.7: that
+153.9: you
+154.1: have
+154.3: sent
+154.5: to
+154.7: find
+154.9: him.
+
+154.8: So
+154.9: you
+155.0: read
+155.2: a
+155.3: couple
+155.5: of
+155.5: files
+155.7: on
+155.9: Jason
+156.2: Bourne
+156.3: and
+156.4: that
+156.6: makes
+156.7: you
+156.9: an
+157.0: expert?
+
+157.2: This
+157.6: is
+157.7: my
+157.8: case,
+158.0: Ward.
+
+158.8: Enough.
+160.5: I
+160.9: want
+161.1: you
+161.2: both
+161.3: on
+161.5: that
+161.6: plane.
+
+162.2: We
+162.6: are,
+162.7: all
+162.9: of
+163.1: us,
+163.2: going
+163.4: to
+163.5: do
+
+163.7: what
+163.9: we
+164.1: were
+164.3: either
+164.5: too
+164.7: lazy
+164.9: or
+165.1: inept
+165.3: to
+165.5: do
+165.7: the
+165.9: last
+166.1: time
+166.3: around.
+
+166.7: We
+166.7: are
+166.9: gonna
+167.0: find
+167.2: this
+167.4: son
+167.7: of
+167.8: a
+167.9: bitch
+168.0: and
+168.2: take
+168.4: him
+168.6: down.
+
+169.6: I
+169.6: am
+170.0: not
+170.3: having
+170.6: Jason
+171.0: Bourne
+171.3: destroy
+171.6: any
+172.0: more
+172.2: of
+172.3: this
+172.4: agency.
+
+173.4: Is
+173.8: that
+173.9: definitive
+174.1: enough
+174.5: for
+174.7: you?
+
+175.8: Yes.
+
+181.6: Jason
+181.7: Bourne
+182.0: is
+182.2: armed
+182.8: and
+183.0: extremely
+183.0: dangerous.
+
+184.0: Last
+184.0: week
+184.0: in
+184.0: Berlin,
+184.0: he
+184.0: assassinated
+184.2: two
+184.4: men,
+
+185.8: one
+185.9: a
+186.0: highly
+186.1: experienced
+186.3: field
+186.5: officer.
+
+187.7: I
+187.9: want
+188.1: that
+188.3: area...
+
+189.2: he
+189.4: assassinated
+189.6: two
+189.8: men,
+
+190.8: one
+191.0: a
+191.2: highly
+191.4: experienced
+191.6: field
+191.8: officer.
+
+192.3: I
+192.5: want
+192.7: that
+192.9: area
+193.1: secured.
+193.3: I
+193.5: want
+193.7: any
+193.9: evidence
+194.1: secured,
+194.3: and
+194.5: I
+194.7: want
+194.9: it
+195.1: done
+195.3: right
+195.5: now.
+
+216.0: This
+216.2: is
+216.4: not
+216.6: a
+216.8: drill,
+217.0: soldier.
+
+221.5: This
+221.7: is
+221.9: not
+222.1: a
+222.4: drill,
+222.7: soldier.
+
+226.4: Are
+226.6: we
+226.8: clear
+227.0: on
+227.2: that?
+
+302.7: You
+302.9: would
+303.1: been
+303.2: working
+303.5: at
+303.7: Treadstone
+304.0: for
+304.2: three
+304.5: years
+
+305.7: and
+305.9: your
+306.2: cover
+306.4: at
+306.7: the
+306.8: time
+307.2: was
+307.3: what?
+
+308.0: That
+308.5: I
+308.6: was
+308.7: an
+308.8: American
+309.2: student
+309.5: in
+309.6: Paris.
+
+309.8: And
+310.4: what
+310.6: exactly
+311.0: did
+311.1: your
+311.3: job
+311.6: with
+311.9: Treadstone
+312.2: in
+312.5: Paris
+312.8: consist
+313.1: of?
+
+313.1: I
+313.5: had
+313.9: two
+314.1: responsibilities.
+
+314.8: One
+315.0: was
+315.3: to
+315.4: coordinate
+315.9: logistical
+316.4: operations.
+
+316.9: The
+317.3: other
+317.5: was
+317.7: to
+317.9: monitor
+318.1: the
+318.3: health
+318.5: of
+318.7: the
+318.9: agents.
+
+319.0: Health,
+319.2: meaning
+319.4: what?
+319.6: Their
+319.8: mental
+320.0: health.
+
+320.6: Because
+321.6: of
+321.7: what
+321.8: they
+321.9: had
+322.0: been
+322.2: through,
+
+321.9: they
+322.4: were
+322.7: prone
+322.9: to
+323.0: a
+323.1: variety
+323.2: of
+323.4: problems.
+
+323.8: What
+324.0: kind
+324.3: of
+324.4: problems?
+
+326.0: Depression,
+326.8: anger,
+327.1: compulsive
+327.8: behaviors.
+
+329.1: They
+329.5: had
+329.7: physical
+330.3: symptoms.
+
+330.4: Headaches,
+331.4: sensitivity
+332.5: to
+332.6: light.
+
+332.8: Amnesia?
+332.9: Before
+333.7: Bourne?
+334.6: No.
+
+340.9: The
+341.1: plane's
+341.3: ready.
+
+342.1: There
+342.3: is
+342.5: a
+342.7: car
+342.9: waiting
+343.1: for
+343.3: you.
+
+343.4: Good
+343.8: luck.
+
+344.5: No.
+344.7: You
+344.9: were
+345.1: his
+345.3: local
+345.5: contact.
+
+345.9: You
+346.0: were
+346.1: with
+346.2: him
+346.4: the
+346.6: night
+346.9: Conklin
+347.2: died.
+
+347.5: You
+347.6: are
+347.7: coming
+348.3: with
+348.4: us.
+
+412.9: Langley
+413.2: pulled
+413.5: an
+413.8: image
+413.9: out
+414.0: of
+414.1: Naples.
+414.3: It
+414.6: is
+414.7: uploading
+415.2: right
+415.3: now.
+
+416.4: It
+416.4: is
+416.4: coming
+416.9: in
+417.0: now.
+
+419.4: I
+419.6: need
+419.8: clearance.
+
+420.7: He
+420.7: is
+420.7: not
+420.9: hiding,
+421.1: that
+421.3: is
+421.5: for
+421.7: sure.
+
+422.0: Why
+422.5: Naples?
+422.7: Why
+422.9: now?
+
+423.3: Could
+424.0: be
+424.1: random.
+424.3: Zoom
+424.5: in.
+
+425.0: Maybe
+425.1: he
+425.2: is
+425.4: running.
+425.7: On
+426.0: his
+426.1: own
+426.3: passport?
+
+426.8: What
+427.0: is
+427.2: he
+427.4: actually
+427.6: doing?
+
+428.2: He
+428.4: is
+428.6: making
+428.8: his
+429.0: first
+429.2: mistake.
+
+429.6: It
+429.6: is
+429.9: not
+430.1: a
+430.1: mistake.
+
+432.8: They
+433.1: do
+433.1: not
+433.3: make
+433.4: mistakes.
+
+434.7: They
+434.9: do
+435.1: not
+435.2: do
+435.4: random.
+
+436.3: There
+436.5: is
+436.8: always
+437.1: an
+437.3: objective.
+437.6: Always
+438.0: a
+438.0: target.
+
+438.3: The
+438.5: objectives
+438.7: and
+438.9: targets
+439.1: always
+439.3: came
+439.5: from
+439.7: us.
+
+440.1: Who
+440.3: is
+440.5: giving
+440.7: them
+440.9: to
+441.1: him
+441.3: now?
+
+441.7: Scary
+442.2: version?
+
+444.7: He
+445.1: is.
+
+504.8: I
+505.0: emptied
+505.2: it.
+
+507.7: It
+508.1: felt
+508.5: a
+508.5: little
+508.7: light.
+
+509.2: Put
+509.4: it
+509.6: down.
+
+516.5: Front.
+
+518.9: Sorry.
+519.5: Old
+519.9: habits.
+
+523.2: Use
+523.7: your
+523.8: teeth.
+
+537.1: Word
+537.4: in
+537.8: the
+537.9: Ether
+538.1: was
+538.2: you
+538.4: would
+538.6: lost
+538.9: your
+539.0: memory.
+
+540.2: You
+540.6: still
+540.8: should
+541.0: have
+541.1: moved.
+
+544.9: What
+545.4: do
+545.5: you
+545.6: want?
+
+546.5: Conklin.
+
+547.8: He
+547.8: is
+548.4: dead.
+549.0: Shot
+549.6: dead
+550.2: in
+550.3: Paris.
+
+550.7: Dead
+551.1: the
+551.3: night
+551.5: you
+551.7: walked
+552.0: out.
+
+552.4: So
+552.4: who
+552.4: is
+552.9: running
+553.2: Treadstone
+553.6: now?
+
+554.8: Nobody.
+555.6: They
+556.4: shut
+556.7: it
+556.8: down.
+
+557.8: It
+558.6: is
+559.4: over.
+560.2: We
+560.2: are
+560.6: the
+560.8: last
+561.0: two.
+
+567.2: If
+567.4: it
+567.6: is
+567.7: over,
+567.9: then
+568.1: why
+568.2: are
+568.3: they
+568.4: still
+568.6: after
+568.8: me?
+
+568.7: I
+569.2: do
+569.2: not
+569.6: know.
+
+569.8: Ever
+570.4: heard
+570.6: the
+570.6: name
+570.7: Pamela
+571.1: Landy?
+
+571.4: I
+571.9: do
+571.9: not
+572.1: know
+572.3: who
+572.5: that
+572.5: is.
+
+572.7: Pamela
+572.9: Landy
+573.2: in
+573.4: Berlin.
+573.7: What
+574.0: is
+574.3: going
+574.6: on
+574.8: in
+575.0: Berlin?
+
+574.9: I
+575.4: do
+575.4: not
+576.5: know.
+
+578.2: Why
+578.6: would
+578.8: I
+578.9: lie?
+
